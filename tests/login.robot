@@ -9,9 +9,9 @@ Force Tags          Windows
 
 
 *** Test Cases ***
-# Teste de Login Com Sucesso
-#     Login no Ponto          ADMIN     
-#     Screen Not Contains     loginScreen
+Teste de Login Com Sucesso
+    Login no Ponto          ADMIN     
+    Screen Not Contains     loginScreen
 
    
 Teste de Login Com Senha Invalida
