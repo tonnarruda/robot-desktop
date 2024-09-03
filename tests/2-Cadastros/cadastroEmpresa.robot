@@ -1,6 +1,6 @@
 *** Settings ***
-Resource            ../resources/keywords.robot
-Resource            ../resources/resources.robot
+Resource            ../../resources/keywords.robot
+Resource            ../../resources/resources.robot
 
 Test Setup          Inicia Sessao
 Test Teardown       Quit Application

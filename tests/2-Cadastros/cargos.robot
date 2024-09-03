@@ -1,7 +1,7 @@
 *** Settings ***
-Resource            ../resources/keywords.robot
-Resource            ../resources/resources.robot
-Resource            ../resources/database.robot
+Resource            ../../resources/keywords.robot
+Resource            ../../resources/resources.robot
+Resource            ../../resources/database.robot
 
 # Suite Setup         Inicia Sessao
 # Test Teardown       Quit Application
