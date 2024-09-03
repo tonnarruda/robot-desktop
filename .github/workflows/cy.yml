@@ -47,6 +47,7 @@ jobs:
         pip install robotframework-databaselibrary
         pip install robotframework-appiumlibrary
         pip install robotframework-SikuliLibrary
+        pip install robotframework-ApplicationLibrary
         # Instale o SikuliX se necessário; o SikuliLibrary pode precisar de uma instalação adicional de Java e SikuliX.
         # Você pode usar uma abordagem como baixar o SikuliX e configurá-lo manualmente.
 
