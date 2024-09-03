@@ -30,8 +30,7 @@ Inicia Sessao
     Start App
     Login no Ponto      ADMIN      
     Send Keys           ${ESCAPE}
-    Screen Contains     home
-    Sleep               3
+    Sleep               15
 
 
 Acessar Cadastro Empresa
