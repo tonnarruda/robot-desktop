@@ -22,13 +22,37 @@ Login no Ponto
     Send Keys               ${F9}  
 
 
+Clica Botao
+    [Arguments]     ${PARAMETER}
+    Click           ${PARAMETER}.png
+
 Inicia Sessao
     Start App
-    Login no Ponto                      ADMIN        
-    Click                               fecharButton.png
-    Sleep                               10
+    Login no Ponto      ADMIN      
+    Click               Fechar.png
+    Screen Contains     home
+    Sleep               3
 
 
 Acessar Cadastro Empresa
     Click    menuCadastros.png
     Click    menuEmpresa.png
+    
+Acessar Cadastro Cargo
+    Click    menuCadastros.png
+    Click    menuCargos.png
+
+
+Assert Equal
+    [Arguments]     ${PARAMETER}
+    Exists          ${PARAMETER}.png    
+
+
+Screen Contains
+    [Arguments]                     ${PARAMETER}
+    Wait Until Screen Contain       ${PARAMETER}.png        60
+
+
+Screen Not Contains
+    [Arguments]                         ${PARAMETER}
+    Wait Until Screen Not Contain       ${PARAMETER}.png    2    

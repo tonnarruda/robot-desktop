@@ -1,0 +1,444 @@
+20240903000551#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903000551#00001A00: CurrentVersion: 1.8.10.402
+20240903000551#00001A00: TGoLifeCycle.NeedUpdate
+20240903000551#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903000551#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903000551#00001A00: ***** HTTP.DISCONNECT *****
+20240903002029#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903002029#00001A00: CurrentVersion: 1.8.10.402
+20240903002029#00001A00: TGoLifeCycle.NeedUpdate
+20240903002029#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903002029#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903002029#00001A00: ***** HTTP.DISCONNECT *****
+20240903003140#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903003140#00001A00: CurrentVersion: 1.8.10.402
+20240903003140#00001A00: TGoLifeCycle.NeedUpdate
+20240903003140#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903003140#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903003141#00001A00: ***** HTTP.DISCONNECT *****
+20240903004604#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903004604#00001A00: CurrentVersion: 1.8.10.402
+20240903004604#00001A00: TGoLifeCycle.NeedUpdate
+20240903004604#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903004604#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903004605#00001A00: ***** HTTP.DISCONNECT *****
+20240903010023#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903010023#00001A00: CurrentVersion: 1.8.10.402
+20240903010023#00001A00: TGoLifeCycle.NeedUpdate
+20240903010023#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903010023#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903010024#00001A00: ***** HTTP.DISCONNECT *****
+20240903011340#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903011340#00001A00: CurrentVersion: 1.8.10.402
+20240903011340#00001A00: TGoLifeCycle.NeedUpdate
+20240903011340#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903011340#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903011341#00001A00: ***** HTTP.DISCONNECT *****
+20240903012411#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903012411#00001A00: CurrentVersion: 1.8.10.402
+20240903012411#00001A00: TGoLifeCycle.NeedUpdate
+20240903012411#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903012411#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903012412#00001A00: ***** HTTP.DISCONNECT *****
+20240903013712#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903013712#00001A00: CurrentVersion: 1.8.10.402
+20240903013712#00001A00: TGoLifeCycle.NeedUpdate
+20240903013712#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903013712#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903013712#00001A00: ***** HTTP.DISCONNECT *****
+20240903014716#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903014716#00001A00: CurrentVersion: 1.8.10.402
+20240903014716#00001A00: TGoLifeCycle.NeedUpdate
+20240903014716#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903014716#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903014717#00001A00: ***** HTTP.DISCONNECT *****
+20240903015721#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903015721#00001A00: CurrentVersion: 1.8.10.402
+20240903015721#00001A00: TGoLifeCycle.NeedUpdate
+20240903015721#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903015721#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903015722#00001A00: ***** HTTP.DISCONNECT *****
+20240903020000#00001A00: Trying restart Agent Service...
+20240903020000#00001A00: Stoping service... (trying 1)
+20240903020030#00001A00: Killing service...
+20240903020100#00001A00: Starting service... (trying 1)
+20240903020130#00001A00: Restart Agent Service successful!
+20240903020901#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903020901#00001A00: CurrentVersion: 1.8.10.402
+20240903020901#00001A00: TGoLifeCycle.NeedUpdate
+20240903020901#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903020901#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903020902#00001A00: ***** HTTP.DISCONNECT *****
+20240903021918#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903021918#00001A00: CurrentVersion: 1.8.10.402
+20240903021918#00001A00: TGoLifeCycle.NeedUpdate
+20240903021918#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903021918#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903021918#00001A00: ***** HTTP.DISCONNECT *****
+20240903023159#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903023159#00001A00: CurrentVersion: 1.8.10.402
+20240903023159#00001A00: TGoLifeCycle.NeedUpdate
+20240903023159#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903023159#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903023200#00001A00: ***** HTTP.DISCONNECT *****
+20240903024425#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903024425#00001A00: CurrentVersion: 1.8.10.402
+20240903024425#00001A00: TGoLifeCycle.NeedUpdate
+20240903024425#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903024425#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903024425#00001A00: ***** HTTP.DISCONNECT *****
+20240903025844#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903025844#00001A00: CurrentVersion: 1.8.10.402
+20240903025844#00001A00: TGoLifeCycle.NeedUpdate
+20240903025844#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903025844#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903025845#00001A00: ***** HTTP.DISCONNECT *****
+20240903031046#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903031046#00001A00: CurrentVersion: 1.8.10.402
+20240903031046#00001A00: TGoLifeCycle.NeedUpdate
+20240903031046#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903031046#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903031046#00001A00: ***** HTTP.DISCONNECT *****
+20240903032227#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903032227#00001A00: CurrentVersion: 1.8.10.402
+20240903032227#00001A00: TGoLifeCycle.NeedUpdate
+20240903032228#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903032228#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903032228#00001A00: ***** HTTP.DISCONNECT *****
+20240903033628#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903033628#00001A00: CurrentVersion: 1.8.10.402
+20240903033628#00001A00: TGoLifeCycle.NeedUpdate
+20240903033628#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903033628#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903033628#00001A00: ***** HTTP.DISCONNECT *****
+20240903034732#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903034732#00001A00: CurrentVersion: 1.8.10.402
+20240903034732#00001A00: TGoLifeCycle.NeedUpdate
+20240903034732#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903034732#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903034733#00001A00: ***** HTTP.DISCONNECT *****
+20240903035745#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903035745#00001A00: CurrentVersion: 1.8.10.402
+20240903035745#00001A00: TGoLifeCycle.NeedUpdate
+20240903035745#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903035745#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903035745#00001A00: ***** HTTP.DISCONNECT *****
+20240903040848#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903040848#00001A00: CurrentVersion: 1.8.10.402
+20240903040848#00001A00: TGoLifeCycle.NeedUpdate
+20240903040848#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903040848#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903040848#00001A00: ***** HTTP.DISCONNECT *****
+20240903042257#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903042257#00001A00: CurrentVersion: 1.8.10.402
+20240903042257#00001A00: TGoLifeCycle.NeedUpdate
+20240903042257#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903042257#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903042257#00001A00: ***** HTTP.DISCONNECT *****
+20240903043747#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903043747#00001A00: CurrentVersion: 1.8.10.402
+20240903043747#00001A00: TGoLifeCycle.NeedUpdate
+20240903043748#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903043748#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903043748#00001A00: ***** HTTP.DISCONNECT *****
+20240903045247#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903045247#00001A00: CurrentVersion: 1.8.10.402
+20240903045247#00001A00: TGoLifeCycle.NeedUpdate
+20240903045247#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903045248#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903045248#00001A00: ***** HTTP.DISCONNECT *****
+20240903050541#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903050541#00001A00: CurrentVersion: 1.8.10.402
+20240903050541#00001A00: TGoLifeCycle.NeedUpdate
+20240903050541#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903050541#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903050542#00001A00: ***** HTTP.DISCONNECT *****
+20240903051926#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903051926#00001A00: CurrentVersion: 1.8.10.402
+20240903051926#00001A00: TGoLifeCycle.NeedUpdate
+20240903051926#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903051926#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903051927#00001A00: ***** HTTP.DISCONNECT *****
+20240903053410#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903053410#00001A00: CurrentVersion: 1.8.10.402
+20240903053410#00001A00: TGoLifeCycle.NeedUpdate
+20240903053410#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903053410#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903053411#00001A00: ***** HTTP.DISCONNECT *****
+20240903054739#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903054739#00001A00: CurrentVersion: 1.8.10.402
+20240903054739#00001A00: TGoLifeCycle.NeedUpdate
+20240903054739#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903054739#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903054740#00001A00: ***** HTTP.DISCONNECT *****
+20240903060207#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903060207#00001A00: CurrentVersion: 1.8.10.402
+20240903060207#00001A00: TGoLifeCycle.NeedUpdate
+20240903060207#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903060207#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903060207#00001A00: ***** HTTP.DISCONNECT *****
+20240903061403#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903061403#00001A00: CurrentVersion: 1.8.10.402
+20240903061403#00001A00: TGoLifeCycle.NeedUpdate
+20240903061403#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903061403#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903061403#00001A00: ***** HTTP.DISCONNECT *****
+20240903062404#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903062404#00001A00: CurrentVersion: 1.8.10.402
+20240903062404#00001A00: TGoLifeCycle.NeedUpdate
+20240903062404#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903062404#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903062405#00001A00: ***** HTTP.DISCONNECT *****
+20240903063837#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903063837#00001A00: CurrentVersion: 1.8.10.402
+20240903063837#00001A00: TGoLifeCycle.NeedUpdate
+20240903063837#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903063837#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903063837#00001A00: ***** HTTP.DISCONNECT *****
+20240903064943#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903064943#00001A00: CurrentVersion: 1.8.10.402
+20240903064943#00001A00: TGoLifeCycle.NeedUpdate
+20240903064943#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903064943#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903065004#00001A00: [ERROR] Socket Error # 10060
+Connection timed out.
+20240903073016#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903073016#00001A00: CurrentVersion: 1.8.10.402
+20240903073016#00001A00: TGoLifeCycle.NeedUpdate
+20240903073016#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903073016#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903073017#00001A00: ***** HTTP.DISCONNECT *****
+20240903074358#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903074358#00001A00: CurrentVersion: 1.8.10.402
+20240903074358#00001A00: TGoLifeCycle.NeedUpdate
+20240903074358#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903074358#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903074358#00001A00: ***** HTTP.DISCONNECT *****
+20240903075454#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903075454#00001A00: CurrentVersion: 1.8.10.402
+20240903075454#00001A00: TGoLifeCycle.NeedUpdate
+20240903075454#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903075454#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903075455#00001A00: ***** HTTP.DISCONNECT *****
+20240903080946#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903080946#00001A00: CurrentVersion: 1.8.10.402
+20240903080946#00001A00: TGoLifeCycle.NeedUpdate
+20240903080946#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903080946#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903080947#00001A00: ***** HTTP.DISCONNECT *****
+20240903082341#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903082341#00001A00: CurrentVersion: 1.8.10.402
+20240903082341#00001A00: TGoLifeCycle.NeedUpdate
+20240903082341#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903082341#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903082342#00001A00: ***** HTTP.DISCONNECT *****
+20240903083623#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903083623#00001A00: CurrentVersion: 1.8.10.402
+20240903083623#00001A00: TGoLifeCycle.NeedUpdate
+20240903083623#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903083623#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903083624#00001A00: ***** HTTP.DISCONNECT *****
+20240903084653#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903084653#00001A00: CurrentVersion: 1.8.10.402
+20240903084653#00001A00: TGoLifeCycle.NeedUpdate
+20240903084653#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903084653#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903084655#00001A00: ***** HTTP.DISCONNECT *****
+20240903090053#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903090053#00001A00: CurrentVersion: 1.8.10.402
+20240903090053#00001A00: TGoLifeCycle.NeedUpdate
+20240903090053#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903090053#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903090054#00001A00: ***** HTTP.DISCONNECT *****
+20240903091501#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903091501#00001A00: CurrentVersion: 1.8.10.402
+20240903091501#00001A00: TGoLifeCycle.NeedUpdate
+20240903091501#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903091501#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903091502#00001A00: ***** HTTP.DISCONNECT *****
+20240903092847#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903092847#00001A00: CurrentVersion: 1.8.10.402
+20240903092847#00001A00: TGoLifeCycle.NeedUpdate
+20240903092847#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903092847#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903092847#00001A00: ***** HTTP.DISCONNECT *****
+20240903094340#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903094340#00001A00: CurrentVersion: 1.8.10.402
+20240903094340#00001A00: TGoLifeCycle.NeedUpdate
+20240903094340#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903094340#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903094340#00001A00: ***** HTTP.DISCONNECT *****
+20240903095406#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903095406#00001A00: CurrentVersion: 1.8.10.402
+20240903095406#00001A00: TGoLifeCycle.NeedUpdate
+20240903095406#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903095406#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903095406#00001A00: ***** HTTP.DISCONNECT *****
+20240903100850#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903100850#00001A00: CurrentVersion: 1.8.10.402
+20240903100850#00001A00: TGoLifeCycle.NeedUpdate
+20240903100850#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903100850#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903100851#00001A00: ***** HTTP.DISCONNECT *****
+20240903102332#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903102332#00001A00: CurrentVersion: 1.8.10.402
+20240903102332#00001A00: TGoLifeCycle.NeedUpdate
+20240903102332#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903102332#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903102333#00001A00: ***** HTTP.DISCONNECT *****
+20240903103408#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903103408#00001A00: CurrentVersion: 1.8.10.402
+20240903103408#00001A00: TGoLifeCycle.NeedUpdate
+20240903103408#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903103408#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903103409#00001A00: ***** HTTP.DISCONNECT *****
+20240903104700#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903104700#00001A00: CurrentVersion: 1.8.10.402
+20240903104700#00001A00: TGoLifeCycle.NeedUpdate
+20240903104700#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903104700#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903104701#00001A00: ***** HTTP.DISCONNECT *****
+20240903110123#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903110123#00001A00: CurrentVersion: 1.8.10.402
+20240903110123#00001A00: TGoLifeCycle.NeedUpdate
+20240903110123#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903110123#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903110124#00001A00: ***** HTTP.DISCONNECT *****
+20240903111336#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903111336#00001A00: CurrentVersion: 1.8.10.402
+20240903111336#00001A00: TGoLifeCycle.NeedUpdate
+20240903111336#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903111336#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903111337#00001A00: ***** HTTP.DISCONNECT *****
+20240903112634#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903112634#00001A00: CurrentVersion: 1.8.10.402
+20240903112634#00001A00: TGoLifeCycle.NeedUpdate
+20240903112634#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903112634#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903112634#00001A00: ***** HTTP.DISCONNECT *****
+20240903113650#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903113650#00001A00: CurrentVersion: 1.8.10.402
+20240903113650#00001A00: TGoLifeCycle.NeedUpdate
+20240903113650#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903113650#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903113650#00001A00: ***** HTTP.DISCONNECT *****
+20240903115044#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903115044#00001A00: CurrentVersion: 1.8.10.402
+20240903115044#00001A00: TGoLifeCycle.NeedUpdate
+20240903115044#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903115044#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903115045#00001A00: ***** HTTP.DISCONNECT *****
+20240903120435#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903120435#00001A00: CurrentVersion: 1.8.10.402
+20240903120435#00001A00: TGoLifeCycle.NeedUpdate
+20240903120435#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903120435#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903120436#00001A00: ***** HTTP.DISCONNECT *****
+20240903121447#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903121447#00001A00: CurrentVersion: 1.8.10.402
+20240903121447#00001A00: TGoLifeCycle.NeedUpdate
+20240903121447#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903121447#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903121448#00001A00: ***** HTTP.DISCONNECT *****
+20240903122547#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903122547#00001A00: CurrentVersion: 1.8.10.402
+20240903122547#00001A00: TGoLifeCycle.NeedUpdate
+20240903122547#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903122547#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903122548#00001A00: ***** HTTP.DISCONNECT *****
+20240903123949#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903123949#00001A00: CurrentVersion: 1.8.10.402
+20240903123949#00001A00: TGoLifeCycle.NeedUpdate
+20240903123949#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903123949#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903123950#00001A00: ***** HTTP.DISCONNECT *****
+20240903125218#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903125218#00001A00: CurrentVersion: 1.8.10.402
+20240903125218#00001A00: TGoLifeCycle.NeedUpdate
+20240903125218#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903125218#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903125219#00001A00: ***** HTTP.DISCONNECT *****
+20240903130330#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903130330#00001A00: CurrentVersion: 1.8.10.402
+20240903130330#00001A00: TGoLifeCycle.NeedUpdate
+20240903130330#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903130330#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903130330#00001A00: ***** HTTP.DISCONNECT *****
+20240903131751#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903131751#00001A00: CurrentVersion: 1.8.10.402
+20240903131751#00001A00: TGoLifeCycle.NeedUpdate
+20240903131751#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903131751#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903131752#00001A00: ***** HTTP.DISCONNECT *****
+20240903132836#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903132836#00001A00: CurrentVersion: 1.8.10.402
+20240903132836#00001A00: TGoLifeCycle.NeedUpdate
+20240903132836#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903132836#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903132836#00001A00: ***** HTTP.DISCONNECT *****
+20240903134215#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903134215#00001A00: CurrentVersion: 1.8.10.402
+20240903134215#00001A00: TGoLifeCycle.NeedUpdate
+20240903134215#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903134215#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903134215#00001A00: ***** HTTP.DISCONNECT *****
+20240903135319#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903135319#00001A00: CurrentVersion: 1.8.10.402
+20240903135319#00001A00: TGoLifeCycle.NeedUpdate
+20240903135319#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903135319#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903135319#00001A00: ***** HTTP.DISCONNECT *****
+20240903140607#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903140607#00001A00: CurrentVersion: 1.8.10.402
+20240903140607#00001A00: TGoLifeCycle.NeedUpdate
+20240903140607#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903140607#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903140607#00001A00: ***** HTTP.DISCONNECT *****
+20240903141917#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903141917#00001A00: CurrentVersion: 1.8.10.402
+20240903141917#00001A00: TGoLifeCycle.NeedUpdate
+20240903141917#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903141917#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903141918#00001A00: ***** HTTP.DISCONNECT *****
+20240903143046#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903143046#00001A00: CurrentVersion: 1.8.10.402
+20240903143046#00001A00: TGoLifeCycle.NeedUpdate
+20240903143046#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903143046#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903143048#00001A00: ***** HTTP.DISCONNECT *****
+20240903144148#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903144148#00001A00: CurrentVersion: 1.8.10.402
+20240903144148#00001A00: TGoLifeCycle.NeedUpdate
+20240903144148#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903144148#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903144149#00001A00: ***** HTTP.DISCONNECT *****
+20240903145543#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903145543#00001A00: CurrentVersion: 1.8.10.402
+20240903145543#00001A00: TGoLifeCycle.NeedUpdate
+20240903145543#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903145543#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903145544#00001A00: ***** HTTP.DISCONNECT *****
+20240903150639#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903150639#00001A00: CurrentVersion: 1.8.10.402
+20240903150639#00001A00: TGoLifeCycle.NeedUpdate
+20240903150640#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903150640#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903150640#00001A00: ***** HTTP.DISCONNECT *****
+20240903151736#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903151736#00001A00: CurrentVersion: 1.8.10.402
+20240903151736#00001A00: TGoLifeCycle.NeedUpdate
+20240903151736#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903151736#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903151736#00001A00: ***** HTTP.DISCONNECT *****
+20240903153144#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903153144#00001A00: CurrentVersion: 1.8.10.402
+20240903153144#00001A00: TGoLifeCycle.NeedUpdate
+20240903153144#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903153144#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903153145#00001A00: ***** HTTP.DISCONNECT *****
+20240903154435#00001A00: TGoLifeCycle.GetCurrentVersion
+20240903154435#00001A00: CurrentVersion: 1.8.10.402
+20240903154435#00001A00: TGoLifeCycle.NeedUpdate
+20240903154435#00001A00: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/UpdateAgent/Check?version=1.8.10.402&stationGuid=e03f2182-b71b-4796-b46d-03122a3a227c
+20240903154435#00001A00: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903154436#00001A00: ***** HTTP.DISCONNECT *****

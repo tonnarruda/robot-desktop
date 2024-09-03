@@ -1,0 +1,1393 @@
+20240903000136#00001988: TLifeCycle.TrackCertificate
+20240903000136#00001988: TCloudClient.CheckMachine
+20240903000136#00001988: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903000136#00001988: TCloudClient.CreateHttpClient
+20240903000136#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903000136#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903000137#00001988: ***** HTTP.DISCONNECT *****
+20240903000137#00001988: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903000137#00001988: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 00:01:37
+20240903001317#00001988: TLifeCycle.TrackCertificate
+20240903001317#00001988: TCloudClient.CheckMachine
+20240903001317#00001988: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903001317#00001988: TCloudClient.CreateHttpClient
+20240903001317#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903001317#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903001318#00001988: ***** HTTP.DISCONNECT *****
+20240903001318#00001988: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903001318#00001988: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 00:13:18
+20240903002323#00001988: TLifeCycle.TrackCertificate
+20240903002323#00001988: TCloudClient.CheckMachine
+20240903002323#00001988: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903002323#00001988: TCloudClient.CreateHttpClient
+20240903002323#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903002323#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903002324#00001988: ***** HTTP.DISCONNECT *****
+20240903002324#00001988: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903002324#00001988: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 00:23:24
+20240903003639#00001988: TLifeCycle.TrackCertificate
+20240903003639#00001988: TCloudClient.CheckMachine
+20240903003639#00001988: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903003639#00001988: TCloudClient.CreateHttpClient
+20240903003639#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903003639#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903003642#00001988: ***** HTTP.DISCONNECT *****
+20240903003642#00001988: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903003642#00001988: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 00:36:42
+20240903003956#00001988: TLifeCycle.PersistTime.Date: 03/09/2024 03:39:56
+20240903005024#00001988: TLifeCycle.TrackCertificate
+20240903005024#00001988: TCloudClient.CheckMachine
+20240903005024#00001988: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903005024#00001988: TCloudClient.CreateHttpClient
+20240903005024#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903005024#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903005025#00001988: ***** HTTP.DISCONNECT *****
+20240903005025#00001988: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903005025#00001988: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 00:50:25
+20240903010321#00001988: TLifeCycle.TrackCertificate
+20240903010321#00001988: TCloudClient.CheckMachine
+20240903010321#00001988: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903010321#00001988: TCloudClient.CreateHttpClient
+20240903010321#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903010321#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903010322#00001988: ***** HTTP.DISCONNECT *****
+20240903010322#00001988: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903010322#00001988: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 01:03:22
+20240903011421#00001988: TLifeCycle.TrackCertificate
+20240903011421#00001988: TCloudClient.CheckMachine
+20240903011421#00001988: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903011421#00001988: TCloudClient.CreateHttpClient
+20240903011421#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903011421#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903011422#00001988: ***** HTTP.DISCONNECT *****
+20240903011422#00001988: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903011422#00001988: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 01:14:22
+20240903012901#00001988: TLifeCycle.TrackCertificate
+20240903012901#00001988: TCloudClient.CheckMachine
+20240903012901#00001988: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903012901#00001988: TCloudClient.CreateHttpClient
+20240903012901#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903012901#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903012902#00001988: ***** HTTP.DISCONNECT *****
+20240903012902#00001988: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903012902#00001988: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 01:29:02
+20240903014353#00001988: TLifeCycle.TrackCertificate
+20240903014353#00001988: TCloudClient.CheckMachine
+20240903014353#00001988: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903014353#00001988: TCloudClient.CreateHttpClient
+20240903014353#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903014353#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903014353#00001988: ***** HTTP.DISCONNECT *****
+20240903014353#00001988: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903014353#00001988: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 01:43:53
+20240903014414#00001988: TLifeCycle.PersistTime.Date: 03/09/2024 04:44:14
+20240903015833#00001988: TLifeCycle.TrackCertificate
+20240903015833#00001988: TCloudClient.CheckMachine
+20240903015833#00001988: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903015833#00001988: TCloudClient.CreateHttpClient
+20240903015833#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903015833#00001988: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903015834#00001988: ***** HTTP.DISCONNECT *****
+20240903015834#00001988: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903015834#00001988: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 01:58:34
+20240903020000#000015EC: ServiceStop
+20240903020000#000015EC: Stopping "TLocalServer", Cloud Url "http://jarvis.fortestecnologia.com.br"...
+20240903020000#000015EC: TLocalServer.Destroy
+20240903020000#0000114C: ServiceDestroy
+20240903020000#0000114C: TLifeCycle.Destroy
+20240903020100#00004150: ServiceCreate
+20240903020100#0000168C: ServiceStart
+20240903020100#0000168C: ServiceExecute
+20240903020100#0000168C: TLifeCycle.Create
+20240903020100#0000168C: TLifeCycle.Create.BaseDir: C:\Fortes\Jarvis
+20240903020100#0000168C: Starting "TLocalServer", Cloud Url "http://jarvis.fortestecnologia.com.br"...
+20240903020100#0000168C: TLocalServer.Create
+20240903020100#00004AFC: ServiceVersion: 1.8.10.402
+20240903020100#00004AFC: TLifeCycle.NeedActualHardware
+20240903020101#00004AFC: NeedActualHardware.Done
+20240903020101#00004AFC: TCloudClient.RetrieveTime
+20240903020101#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Time
+20240903020101#00004AFC: TCloudClient.CreateHttpClient
+20240903020101#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903020101#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903020130#00004AFC: ***** HTTP.DISCONNECT *****
+20240903020130#00004AFC: TLifeCycle.LoadTimeFromRegistry.Date: 03/09/2024 04:44:14
+20240903020130#00004AFC: TLifeCycle.RestoreLastCloudContact.Date: 03/09/2024 01:58:34
+20240903020130#00004AFC: RestoreCertificate:DESKTOP-9TSTFHH 4fe0f0fa-0019-4e33-912c-54430610746b 369708
+20240903020130#00004AFC: *** START LOADING CERTIFICATE ***
+GUID: 4fe0f0fa-0019-4e33-912c-54430610746b
+MachineName: DESKTOP-9TSTFHH
+EasyCode: 369708
+IssueDate: 2024-08-13
+*** END LOADING CERTIFICATE ***
+20240903020130#00004AFC: TLifeCycle.RegisterAgent
+20240903020132#00004AFC: HardwareXml: <?xml version="1.0" encoding="utf-8"?>
+<HardwareInventory><Processor><Manufacturer>GENUINEINTEL</Manufacturer><ProcessorId>BFEBFBFF000806EC</ProcessorId><SocketDesignation>U3E1</SocketDesignation><DataWidth>64</DataWidth><Family>198</Family><L2CacheSize>1024</L2CacheSize><AddressWidth>64</AddressWidth><Architecture>9</Architecture><NumberOfCores>4</NumberOfCores><Revision>NULL</Revision></Processor><BaseBoard><Manufacturer>LENOVO</Manufacturer><Product>LNVNB161216</Product><PartNumber>NULL</PartNumber><SerialNumber>PE0671Z9</SerialNumber><Version>SDK0J40688+WIN</Version></BaseBoard><BIOS><Manufacturer>LENOVO</Manufacturer><ReleaseDate>20200623000000+000000+000</ReleaseDate><SerialNumber>PE0671Z9</SerialNumber><SMBIOSBIOSVersion>ASCN48WW</SMBIOSBIOSVersion><Version>LENOVO+1</Version></BIOS><OSInfo><SerialNumber>00342-41423-40161-AAOEM</SerialNumber><InstalationDate>1970-01-01 00:00:00</InstalationDate><RegistrationNumber>RP:E191451EFA794E29A42AAD356FBB01F5</RegistrationNumber></OSInfo><HardDiskDrive><Item><Model>SAMSUNG+MZALQ256HAJD+000L2</Model><SerialNumber>0025+38A7+01C7+8E72</SerialNumber><FirmwareRevision>AL2QFXV7</FirmwareRevision><InterfaceType>SCSI</InterfaceType></Item></HardDiskDrive><PhysicalMemory><Item><Manufacturer>SMART+BRAZIL</Manufacturer><Capacity>4294967296</Capacity><Speed>2400</Speed><PartNumber>SMS4TDC3C0K0446SCG</PartNumber><SerialNumber>00000000</SerialNumber></Item><Item><Manufacturer>SMART+BRAZIL</Manufacturer><Capacity>4294967296</Capacity><Speed>2400</Speed><PartNumber>SMS4TDC3C0K0446SCG</PartNumber><SerialNumber>03AA7302</SerialNumber></Item></PhysicalMemory><NetworkAdapter><Item><Manufacturer>INTEL+CORPORATION</Manufacturer><MACAddress>5C+CD+5B+7C+73+A1</MACAddress></Item></NetworkAdapter></HardwareInventory>
+
+20240903020132#00004AFC: TCloudClient.MakePostCall: http://jarvis.fortestecnologia.com.br/Agent/Register
+20240903020132#00004AFC: TCloudClient.CreateHttpClient
+20240903020132#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903020132#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903020133#00004AFC: ***** HTTP.DISCONNECT *****
+20240903020133#00004AFC: TCloudClient.RegisterAgent.ResponseCode: 200
+20240903020133#00004AFC: TLifeCycle.RegisterAgent.Done: 4fe0f0fa-0019-4e33-912c-54430610746b
+20240903020133#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:01:33
+20240903020133#00004AFC: TLifeCycle.TrackCertificate
+20240903020133#00004AFC: TCloudClient.CheckMachine
+20240903020133#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903020133#00004AFC: TCloudClient.CreateHttpClient
+20240903020133#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903020133#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903020134#00004AFC: ***** HTTP.DISCONNECT *****
+20240903020134#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903020134#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:01:34
+20240903020134#00004AFC: TLifeCycle.PersistTime.Date: 03/09/2024 05:01:34
+20240903020520#00004AFC: TLifeCycle.TrackCertificate
+20240903020520#00004AFC: TCloudClient.CheckMachine
+20240903020520#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903020520#00004AFC: TCloudClient.CreateHttpClient
+20240903020520#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903020520#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903020521#00004AFC: ***** HTTP.DISCONNECT *****
+20240903020521#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903020521#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:05:21
+20240903020823#00004AFC: TLifeCycle.TrackCertificate
+20240903020823#00004AFC: TCloudClient.CheckMachine
+20240903020823#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903020823#00004AFC: TCloudClient.CreateHttpClient
+20240903020823#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903020823#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903020824#00004AFC: ***** HTTP.DISCONNECT *****
+20240903020824#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903020824#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:08:24
+20240903021211#00004AFC: TLifeCycle.TrackCertificate
+20240903021211#00004AFC: TCloudClient.CheckMachine
+20240903021211#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903021211#00004AFC: TCloudClient.CreateHttpClient
+20240903021211#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903021211#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903021212#00004AFC: ***** HTTP.DISCONNECT *****
+20240903021212#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903021212#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:12:12
+20240903021630#00004AFC: TLifeCycle.TrackCertificate
+20240903021630#00004AFC: TCloudClient.CheckMachine
+20240903021630#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903021630#00004AFC: TCloudClient.CreateHttpClient
+20240903021630#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903021630#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903021631#00004AFC: ***** HTTP.DISCONNECT *****
+20240903021631#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903021631#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:16:31
+20240903022056#00004AFC: TLifeCycle.TrackCertificate
+20240903022056#00004AFC: TCloudClient.CheckMachine
+20240903022056#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903022056#00004AFC: TCloudClient.CreateHttpClient
+20240903022056#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903022056#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903022057#00004AFC: ***** HTTP.DISCONNECT *****
+20240903022057#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903022057#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:20:57
+20240903022428#00004AFC: TLifeCycle.TrackCertificate
+20240903022428#00004AFC: TCloudClient.CheckMachine
+20240903022428#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903022428#00004AFC: TCloudClient.CreateHttpClient
+20240903022428#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903022428#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903022430#00004AFC: ***** HTTP.DISCONNECT *****
+20240903022430#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903022430#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:24:30
+20240903022827#00004AFC: TLifeCycle.TrackCertificate
+20240903022827#00004AFC: TCloudClient.CheckMachine
+20240903022827#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903022827#00004AFC: TCloudClient.CreateHttpClient
+20240903022827#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903022827#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903022828#00004AFC: ***** HTTP.DISCONNECT *****
+20240903022828#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903022828#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:28:28
+20240903023225#00004AFC: TLifeCycle.TrackCertificate
+20240903023225#00004AFC: TCloudClient.CheckMachine
+20240903023225#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903023225#00004AFC: TCloudClient.CreateHttpClient
+20240903023225#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903023225#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903023227#00004AFC: ***** HTTP.DISCONNECT *****
+20240903023227#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903023227#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:32:27
+20240903023605#00004AFC: TLifeCycle.TrackCertificate
+20240903023605#00004AFC: TCloudClient.CheckMachine
+20240903023605#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903023605#00004AFC: TCloudClient.CreateHttpClient
+20240903023605#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903023605#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903023610#00004AFC: ***** HTTP.DISCONNECT *****
+20240903023610#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903023610#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:36:10
+20240903023951#00004AFC: TLifeCycle.TrackCertificate
+20240903023951#00004AFC: TCloudClient.CheckMachine
+20240903023951#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903023951#00004AFC: TCloudClient.CreateHttpClient
+20240903023951#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903023951#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903023952#00004AFC: ***** HTTP.DISCONNECT *****
+20240903023952#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903023952#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:39:52
+20240903024312#00004AFC: TLifeCycle.TrackCertificate
+20240903024312#00004AFC: TCloudClient.CheckMachine
+20240903024312#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903024312#00004AFC: TCloudClient.CreateHttpClient
+20240903024312#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903024312#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903024313#00004AFC: ***** HTTP.DISCONNECT *****
+20240903024313#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903024313#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:43:13
+20240903024736#00004AFC: TLifeCycle.TrackCertificate
+20240903024736#00004AFC: TCloudClient.CheckMachine
+20240903024736#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903024736#00004AFC: TCloudClient.CreateHttpClient
+20240903024736#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903024736#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903024737#00004AFC: ***** HTTP.DISCONNECT *****
+20240903024737#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903024737#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:47:37
+20240903025202#00004AFC: TLifeCycle.TrackCertificate
+20240903025202#00004AFC: TCloudClient.CheckMachine
+20240903025202#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903025202#00004AFC: TCloudClient.CreateHttpClient
+20240903025202#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903025202#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903025203#00004AFC: ***** HTTP.DISCONNECT *****
+20240903025203#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903025203#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:52:03
+20240903025541#00004AFC: TLifeCycle.TrackCertificate
+20240903025541#00004AFC: TCloudClient.CheckMachine
+20240903025541#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903025541#00004AFC: TCloudClient.CreateHttpClient
+20240903025541#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903025541#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903025541#00004AFC: ***** HTTP.DISCONNECT *****
+20240903025541#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903025541#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:55:41
+20240903025902#00004AFC: TLifeCycle.TrackCertificate
+20240903025902#00004AFC: TCloudClient.CheckMachine
+20240903025902#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903025902#00004AFC: TCloudClient.CreateHttpClient
+20240903025902#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903025902#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903025903#00004AFC: ***** HTTP.DISCONNECT *****
+20240903025903#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903025903#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 02:59:03
+20240903030307#00004AFC: TLifeCycle.TrackCertificate
+20240903030307#00004AFC: TCloudClient.CheckMachine
+20240903030307#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903030307#00004AFC: TCloudClient.CreateHttpClient
+20240903030307#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903030307#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903030308#00004AFC: ***** HTTP.DISCONNECT *****
+20240903030308#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903030308#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:03:08
+20240903030702#00004AFC: TLifeCycle.TrackCertificate
+20240903030702#00004AFC: TCloudClient.CheckMachine
+20240903030702#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903030702#00004AFC: TCloudClient.CreateHttpClient
+20240903030702#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903030702#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903030703#00004AFC: ***** HTTP.DISCONNECT *****
+20240903030703#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903030703#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:07:03
+20240903031034#00004AFC: TLifeCycle.TrackCertificate
+20240903031034#00004AFC: TCloudClient.CheckMachine
+20240903031034#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903031034#00004AFC: TCloudClient.CreateHttpClient
+20240903031034#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903031034#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903031035#00004AFC: ***** HTTP.DISCONNECT *****
+20240903031035#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903031035#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:10:35
+20240903031441#00004AFC: TLifeCycle.TrackCertificate
+20240903031441#00004AFC: TCloudClient.CheckMachine
+20240903031441#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903031441#00004AFC: TCloudClient.CreateHttpClient
+20240903031441#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903031441#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903031442#00004AFC: ***** HTTP.DISCONNECT *****
+20240903031442#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903031442#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:14:42
+20240903031827#00004AFC: TLifeCycle.TrackCertificate
+20240903031827#00004AFC: TCloudClient.CheckMachine
+20240903031827#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903031827#00004AFC: TCloudClient.CreateHttpClient
+20240903031827#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903031827#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903031828#00004AFC: ***** HTTP.DISCONNECT *****
+20240903031828#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903031828#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:18:28
+20240903032110#00004AFC: TLifeCycle.PersistTime.Date: 03/09/2024 06:21:10
+20240903032256#00004AFC: TLifeCycle.TrackCertificate
+20240903032256#00004AFC: TCloudClient.CheckMachine
+20240903032256#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903032256#00004AFC: TCloudClient.CreateHttpClient
+20240903032256#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903032256#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903032258#00004AFC: ***** HTTP.DISCONNECT *****
+20240903032258#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903032258#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:22:58
+20240903032728#00004AFC: TLifeCycle.TrackCertificate
+20240903032728#00004AFC: TCloudClient.CheckMachine
+20240903032728#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903032728#00004AFC: TCloudClient.CreateHttpClient
+20240903032728#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903032728#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903032729#00004AFC: ***** HTTP.DISCONNECT *****
+20240903032729#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903032729#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:27:29
+20240903033034#00004AFC: TLifeCycle.TrackCertificate
+20240903033034#00004AFC: TCloudClient.CheckMachine
+20240903033034#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903033034#00004AFC: TCloudClient.CreateHttpClient
+20240903033034#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903033034#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903033035#00004AFC: ***** HTTP.DISCONNECT *****
+20240903033035#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903033035#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:30:35
+20240903033406#00004AFC: TLifeCycle.TrackCertificate
+20240903033406#00004AFC: TCloudClient.CheckMachine
+20240903033406#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903033406#00004AFC: TCloudClient.CreateHttpClient
+20240903033406#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903033406#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903033407#00004AFC: ***** HTTP.DISCONNECT *****
+20240903033407#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903033407#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:34:07
+20240903033712#00004AFC: TLifeCycle.TrackCertificate
+20240903033712#00004AFC: TCloudClient.CheckMachine
+20240903033712#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903033712#00004AFC: TCloudClient.CreateHttpClient
+20240903033712#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903033712#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903033714#00004AFC: ***** HTTP.DISCONNECT *****
+20240903033714#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903033714#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:37:14
+20240903034019#00004AFC: TLifeCycle.TrackCertificate
+20240903034019#00004AFC: TCloudClient.CheckMachine
+20240903034019#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903034019#00004AFC: TCloudClient.CreateHttpClient
+20240903034019#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903034019#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903034024#00004AFC: ***** HTTP.DISCONNECT *****
+20240903034024#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903034024#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:40:24
+20240903034438#00004AFC: TLifeCycle.TrackCertificate
+20240903034438#00004AFC: TCloudClient.CheckMachine
+20240903034438#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903034438#00004AFC: TCloudClient.CreateHttpClient
+20240903034438#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903034438#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903034439#00004AFC: ***** HTTP.DISCONNECT *****
+20240903034439#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903034439#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:44:39
+20240903034827#00004AFC: TLifeCycle.TrackCertificate
+20240903034827#00004AFC: TCloudClient.CheckMachine
+20240903034827#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903034827#00004AFC: TCloudClient.CreateHttpClient
+20240903034827#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903034827#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903034828#00004AFC: ***** HTTP.DISCONNECT *****
+20240903034828#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903034828#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:48:28
+20240903035152#00004AFC: TLifeCycle.TrackCertificate
+20240903035152#00004AFC: TCloudClient.CheckMachine
+20240903035152#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903035152#00004AFC: TCloudClient.CreateHttpClient
+20240903035152#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903035152#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903035153#00004AFC: ***** HTTP.DISCONNECT *****
+20240903035153#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903035153#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:51:53
+20240903035512#00004AFC: TLifeCycle.TrackCertificate
+20240903035512#00004AFC: TCloudClient.CheckMachine
+20240903035512#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903035512#00004AFC: TCloudClient.CreateHttpClient
+20240903035512#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903035512#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903035518#00004AFC: ***** HTTP.DISCONNECT *****
+20240903035518#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903035518#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:55:18
+20240903035920#00004AFC: TLifeCycle.TrackCertificate
+20240903035920#00004AFC: TCloudClient.CheckMachine
+20240903035920#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903035920#00004AFC: TCloudClient.CreateHttpClient
+20240903035920#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903035920#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903035920#00004AFC: ***** HTTP.DISCONNECT *****
+20240903035920#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903035920#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 03:59:20
+20240903040230#00004AFC: TLifeCycle.TrackCertificate
+20240903040230#00004AFC: TCloudClient.CheckMachine
+20240903040230#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903040230#00004AFC: TCloudClient.CreateHttpClient
+20240903040230#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903040230#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903040231#00004AFC: ***** HTTP.DISCONNECT *****
+20240903040231#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903040231#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:02:31
+20240903040618#00004AFC: TLifeCycle.TrackCertificate
+20240903040618#00004AFC: TCloudClient.CheckMachine
+20240903040618#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903040618#00004AFC: TCloudClient.CreateHttpClient
+20240903040618#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903040618#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903040619#00004AFC: ***** HTTP.DISCONNECT *****
+20240903040619#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903040619#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:06:19
+20240903040949#00004AFC: TLifeCycle.TrackCertificate
+20240903040949#00004AFC: TCloudClient.CheckMachine
+20240903040949#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903040949#00004AFC: TCloudClient.CreateHttpClient
+20240903040949#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903040949#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903040950#00004AFC: ***** HTTP.DISCONNECT *****
+20240903040950#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903040950#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:09:50
+20240903041307#00004AFC: TLifeCycle.TrackCertificate
+20240903041307#00004AFC: TCloudClient.CheckMachine
+20240903041307#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903041307#00004AFC: TCloudClient.CreateHttpClient
+20240903041307#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903041307#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903041308#00004AFC: ***** HTTP.DISCONNECT *****
+20240903041308#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903041308#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:13:08
+20240903041732#00004AFC: TLifeCycle.TrackCertificate
+20240903041732#00004AFC: TCloudClient.CheckMachine
+20240903041732#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903041732#00004AFC: TCloudClient.CreateHttpClient
+20240903041732#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903041732#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903041732#00004AFC: ***** HTTP.DISCONNECT *****
+20240903041732#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903041732#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:17:32
+20240903042127#00004AFC: TLifeCycle.TrackCertificate
+20240903042127#00004AFC: TCloudClient.CheckMachine
+20240903042127#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903042127#00004AFC: TCloudClient.CreateHttpClient
+20240903042127#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903042127#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903042128#00004AFC: ***** HTTP.DISCONNECT *****
+20240903042128#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903042128#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:21:28
+20240903042129#00004AFC: TLifeCycle.PersistTime.Date: 03/09/2024 07:21:29
+20240903042517#00004AFC: TLifeCycle.TrackCertificate
+20240903042517#00004AFC: TCloudClient.CheckMachine
+20240903042517#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903042517#00004AFC: TCloudClient.CreateHttpClient
+20240903042517#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903042517#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903042518#00004AFC: ***** HTTP.DISCONNECT *****
+20240903042518#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903042518#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:25:18
+20240903042914#00004AFC: TLifeCycle.TrackCertificate
+20240903042914#00004AFC: TCloudClient.CheckMachine
+20240903042914#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903042914#00004AFC: TCloudClient.CreateHttpClient
+20240903042914#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903042914#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903042914#00004AFC: ***** HTTP.DISCONNECT *****
+20240903042914#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903042914#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:29:14
+20240903043316#00004AFC: TLifeCycle.TrackCertificate
+20240903043316#00004AFC: TCloudClient.CheckMachine
+20240903043316#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903043316#00004AFC: TCloudClient.CreateHttpClient
+20240903043316#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903043316#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903043317#00004AFC: ***** HTTP.DISCONNECT *****
+20240903043317#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903043317#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:33:17
+20240903043643#00004AFC: TLifeCycle.TrackCertificate
+20240903043643#00004AFC: TCloudClient.CheckMachine
+20240903043643#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903043643#00004AFC: TCloudClient.CreateHttpClient
+20240903043643#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903043643#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903043644#00004AFC: ***** HTTP.DISCONNECT *****
+20240903043644#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903043644#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:36:44
+20240903044031#00004AFC: TLifeCycle.TrackCertificate
+20240903044031#00004AFC: TCloudClient.CheckMachine
+20240903044031#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903044031#00004AFC: TCloudClient.CreateHttpClient
+20240903044031#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903044031#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903044032#00004AFC: ***** HTTP.DISCONNECT *****
+20240903044032#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903044032#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:40:32
+20240903044351#00004AFC: TLifeCycle.TrackCertificate
+20240903044351#00004AFC: TCloudClient.CheckMachine
+20240903044351#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903044351#00004AFC: TCloudClient.CreateHttpClient
+20240903044351#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903044351#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903044351#00004AFC: ***** HTTP.DISCONNECT *****
+20240903044351#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903044351#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:43:51
+20240903044706#00004AFC: TLifeCycle.TrackCertificate
+20240903044706#00004AFC: TCloudClient.CheckMachine
+20240903044706#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903044706#00004AFC: TCloudClient.CreateHttpClient
+20240903044706#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903044706#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903044706#00004AFC: ***** HTTP.DISCONNECT *****
+20240903044706#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903044706#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:47:06
+20240903045042#00004AFC: TLifeCycle.TrackCertificate
+20240903045042#00004AFC: TCloudClient.CheckMachine
+20240903045042#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903045042#00004AFC: TCloudClient.CreateHttpClient
+20240903045042#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903045042#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903045043#00004AFC: ***** HTTP.DISCONNECT *****
+20240903045043#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903045043#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:50:43
+20240903045357#00004AFC: TLifeCycle.TrackCertificate
+20240903045357#00004AFC: TCloudClient.CheckMachine
+20240903045357#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903045357#00004AFC: TCloudClient.CreateHttpClient
+20240903045357#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903045357#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903045358#00004AFC: ***** HTTP.DISCONNECT *****
+20240903045358#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903045358#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:53:58
+20240903045809#00004AFC: TLifeCycle.TrackCertificate
+20240903045809#00004AFC: TCloudClient.CheckMachine
+20240903045809#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903045809#00004AFC: TCloudClient.CreateHttpClient
+20240903045809#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903045809#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903045811#00004AFC: ***** HTTP.DISCONNECT *****
+20240903045811#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903045811#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 04:58:11
+20240903050125#00004AFC: TLifeCycle.TrackCertificate
+20240903050125#00004AFC: TCloudClient.CheckMachine
+20240903050125#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903050125#00004AFC: TCloudClient.CreateHttpClient
+20240903050125#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903050125#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903050129#00004AFC: ***** HTTP.DISCONNECT *****
+20240903050129#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903050129#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 05:01:29
+20240903050442#00004AFC: TLifeCycle.TrackCertificate
+20240903050442#00004AFC: TCloudClient.CheckMachine
+20240903050442#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903050442#00004AFC: TCloudClient.CreateHttpClient
+20240903050442#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903050442#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903050443#00004AFC: ***** HTTP.DISCONNECT *****
+20240903050443#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903050443#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 05:04:43
+20240903050815#00004AFC: TLifeCycle.TrackCertificate
+20240903050815#00004AFC: TCloudClient.CheckMachine
+20240903050815#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903050815#00004AFC: TCloudClient.CreateHttpClient
+20240903050815#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903050815#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903050816#00004AFC: ***** HTTP.DISCONNECT *****
+20240903050816#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903050816#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 05:08:16
+20240903051155#00004AFC: TLifeCycle.TrackCertificate
+20240903051155#00004AFC: TCloudClient.CheckMachine
+20240903051155#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903051155#00004AFC: TCloudClient.CreateHttpClient
+20240903051155#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903051155#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903051207#00004AFC: [ERROR] TCloudClient.CheckMachine.Error: Socket Error # 11001
+Host not found.
+20240903052259#00004AFC: TLifeCycle.TrackCertificate
+20240903052259#00004AFC: TCloudClient.CheckMachine
+20240903052259#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903052259#00004AFC: TCloudClient.CreateHttpClient
+20240903052259#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903052259#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903052259#00004AFC: ***** HTTP.DISCONNECT *****
+20240903052259#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903052259#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 05:22:59
+20240903052641#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052641#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052641#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052641#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052641#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052641#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052641#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052641#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052642#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052642#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052642#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052642#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052642#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052642#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052642#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052642#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052642#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052642#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052643#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052643#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052643#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052643#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903052643#00004AFC: [ERROR] TLifeCycle.Execute (Loop).Error: Socket Error # 10065
+No route to host.$ @TLifeCycle.Execute
+$ NeedActualHardware
+$ RetrieveTime
+$ LoadTimeFromRegistry
+$ RestoreLastCloudContact
+$ RestoreCertificate
+$ SaveStationGuid
+$ SaveStationGuid
+$ RegisterMachineIf
+$ TrackCertificateIf
+$ PersistTimeIf
+$ BroadcastSignalIf
+
+20240903053321#00004AFC: TLifeCycle.TrackCertificate
+20240903053321#00004AFC: TCloudClient.CheckMachine
+20240903053321#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903053321#00004AFC: TCloudClient.CreateHttpClient
+20240903053321#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903053321#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903053322#00004AFC: ***** HTTP.DISCONNECT *****
+20240903053322#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903053322#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 05:33:22
+20240903054056#00004AFC: TLifeCycle.PersistTime.Date: 03/09/2024 08:40:56
+20240903054555#00004AFC: TLifeCycle.TrackCertificate
+20240903054555#00004AFC: TCloudClient.CheckMachine
+20240903054555#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903054555#00004AFC: TCloudClient.CreateHttpClient
+20240903054555#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903054555#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903054556#00004AFC: ***** HTTP.DISCONNECT *****
+20240903054556#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903054556#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 05:45:56
+20240903055738#00004AFC: TLifeCycle.TrackCertificate
+20240903055738#00004AFC: TCloudClient.CheckMachine
+20240903055738#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903055738#00004AFC: TCloudClient.CreateHttpClient
+20240903055738#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903055738#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903055738#00004AFC: ***** HTTP.DISCONNECT *****
+20240903055738#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903055738#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 05:57:38
+20240903060847#00004AFC: TLifeCycle.TrackCertificate
+20240903060847#00004AFC: TCloudClient.CheckMachine
+20240903060847#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903060847#00004AFC: TCloudClient.CreateHttpClient
+20240903060847#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903060847#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903060847#00004AFC: ***** HTTP.DISCONNECT *****
+20240903060847#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903060847#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 06:08:47
+20240903062155#00004AFC: TLifeCycle.TrackCertificate
+20240903062155#00004AFC: TCloudClient.CheckMachine
+20240903062155#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903062155#00004AFC: TCloudClient.CreateHttpClient
+20240903062155#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903062155#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903062158#00004AFC: ***** HTTP.DISCONNECT *****
+20240903062158#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903062158#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 06:21:58
+20240903063538#00004AFC: TLifeCycle.TrackCertificate
+20240903063538#00004AFC: TCloudClient.CheckMachine
+20240903063538#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903063538#00004AFC: TCloudClient.CreateHttpClient
+20240903063538#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903063538#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903063541#00004AFC: ***** HTTP.DISCONNECT *****
+20240903063541#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903063541#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 06:35:41
+20240903064941#00004AFC: TLifeCycle.TrackCertificate
+20240903064941#00004AFC: TCloudClient.CheckMachine
+20240903064941#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903064941#00004AFC: TCloudClient.CreateHttpClient
+20240903064941#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903064941#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903064942#00004AFC: ***** HTTP.DISCONNECT *****
+20240903064942#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903064942#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 06:49:42
+20240903065824#00004AFC: TLifeCycle.PersistTime.Date: 03/09/2024 09:58:25
+20240903070117#00004AFC: TLifeCycle.TrackCertificate
+20240903070117#00004AFC: TCloudClient.CheckMachine
+20240903070117#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903070117#00004AFC: TCloudClient.CreateHttpClient
+20240903070117#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903070117#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903070119#00004AFC: ***** HTTP.DISCONNECT *****
+20240903070119#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903070119#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 07:01:19
+20240903071403#00004AFC: TLifeCycle.TrackCertificate
+20240903071403#00004AFC: TCloudClient.CheckMachine
+20240903071403#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903071403#00004AFC: TCloudClient.CreateHttpClient
+20240903071403#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903071403#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903071407#00004AFC: ***** HTTP.DISCONNECT *****
+20240903071407#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903071407#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 07:14:07
+20240903072708#00004AFC: TLifeCycle.TrackCertificate
+20240903072708#00004AFC: TCloudClient.CheckMachine
+20240903072708#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903072708#00004AFC: TCloudClient.CreateHttpClient
+20240903072708#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903072708#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903072709#00004AFC: ***** HTTP.DISCONNECT *****
+20240903072709#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903072709#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 07:27:09
+20240903074002#00004AFC: TLifeCycle.TrackCertificate
+20240903074002#00004AFC: TCloudClient.CheckMachine
+20240903074002#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903074002#00004AFC: TCloudClient.CreateHttpClient
+20240903074002#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903074002#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903074010#00004AFC: ***** HTTP.DISCONNECT *****
+20240903074010#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903074010#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 07:40:10
+20240903075017#00004AFC: TLifeCycle.TrackCertificate
+20240903075017#00004AFC: TCloudClient.CheckMachine
+20240903075017#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903075017#00004AFC: TCloudClient.CreateHttpClient
+20240903075017#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903075017#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903075021#00004AFC: ***** HTTP.DISCONNECT *****
+20240903075021#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903075021#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 07:50:21
+20240903080023#00004AFC: TLifeCycle.TrackCertificate
+20240903080023#00004AFC: TCloudClient.CheckMachine
+20240903080023#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903080023#00004AFC: TCloudClient.CreateHttpClient
+20240903080023#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903080023#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903080025#00004AFC: ***** HTTP.DISCONNECT *****
+20240903080025#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903080025#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 08:00:25
+20240903081055#00004AFC: TLifeCycle.TrackCertificate
+20240903081055#00004AFC: TCloudClient.CheckMachine
+20240903081055#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903081055#00004AFC: TCloudClient.CreateHttpClient
+20240903081055#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903081055#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903081056#00004AFC: ***** HTTP.DISCONNECT *****
+20240903081056#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903081056#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 08:10:56
+20240903082347#00004AFC: TLifeCycle.PersistTime.Date: 03/09/2024 11:23:47
+20240903082437#00004AFC: TLifeCycle.TrackCertificate
+20240903082437#00004AFC: TCloudClient.CheckMachine
+20240903082437#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903082437#00004AFC: TCloudClient.CreateHttpClient
+20240903082437#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903082437#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903082438#00004AFC: ***** HTTP.DISCONNECT *****
+20240903082438#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903082438#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 08:24:38
+20240903083713#00004AFC: TLifeCycle.TrackCertificate
+20240903083713#00004AFC: TCloudClient.CheckMachine
+20240903083713#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903083713#00004AFC: TCloudClient.CreateHttpClient
+20240903083713#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903083713#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903083714#00004AFC: ***** HTTP.DISCONNECT *****
+20240903083714#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903083714#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 08:37:14
+20240903084724#00004AFC: TLifeCycle.TrackCertificate
+20240903084724#00004AFC: TCloudClient.CheckMachine
+20240903084724#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903084724#00004AFC: TCloudClient.CreateHttpClient
+20240903084724#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903084724#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903084725#00004AFC: ***** HTTP.DISCONNECT *****
+20240903084725#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903084725#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 08:47:25
+20240903090011#00004AFC: TLifeCycle.TrackCertificate
+20240903090011#00004AFC: TCloudClient.CheckMachine
+20240903090011#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903090011#00004AFC: TCloudClient.CreateHttpClient
+20240903090011#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903090011#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903090015#00004AFC: ***** HTTP.DISCONNECT *****
+20240903090015#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903090015#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 09:00:15
+20240903091034#00004AFC: TLifeCycle.TrackCertificate
+20240903091034#00004AFC: TCloudClient.CheckMachine
+20240903091034#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903091034#00004AFC: TCloudClient.CreateHttpClient
+20240903091034#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903091034#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903091038#00004AFC: ***** HTTP.DISCONNECT *****
+20240903091038#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903091038#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 09:10:38
+20240903092408#00004AFC: TLifeCycle.TrackCertificate
+20240903092408#00004AFC: TCloudClient.CheckMachine
+20240903092408#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903092408#00004AFC: TCloudClient.CreateHttpClient
+20240903092408#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903092408#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903092410#00004AFC: ***** HTTP.DISCONNECT *****
+20240903092410#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903092410#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 09:24:10
+20240903093554#00004AFC: TLifeCycle.TrackCertificate
+20240903093554#00004AFC: TCloudClient.CheckMachine
+20240903093554#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903093554#00004AFC: TCloudClient.CreateHttpClient
+20240903093554#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903093554#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903093556#00004AFC: ***** HTTP.DISCONNECT *****
+20240903093556#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903093556#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 09:35:56
+20240903094610#00004AFC: TLifeCycle.TrackCertificate
+20240903094610#00004AFC: TCloudClient.CheckMachine
+20240903094610#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903094610#00004AFC: TCloudClient.CreateHttpClient
+20240903094610#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903094610#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903094611#00004AFC: ***** HTTP.DISCONNECT *****
+20240903094611#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903094611#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 09:46:11
+20240903095228#00004AFC: TLifeCycle.PersistTime.Date: 03/09/2024 12:52:29
+20240903095821#00004AFC: TLifeCycle.TrackCertificate
+20240903095821#00004AFC: TCloudClient.CheckMachine
+20240903095821#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903095821#00004AFC: TCloudClient.CreateHttpClient
+20240903095821#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903095821#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903095822#00004AFC: ***** HTTP.DISCONNECT *****
+20240903095822#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903095822#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 09:58:22
+20240903101220#00004AFC: TLifeCycle.TrackCertificate
+20240903101220#00004AFC: TCloudClient.CheckMachine
+20240903101220#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903101220#00004AFC: TCloudClient.CreateHttpClient
+20240903101220#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903101220#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903101221#00004AFC: ***** HTTP.DISCONNECT *****
+20240903101221#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903101221#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 10:12:21
+20240903102427#00004AFC: TLifeCycle.TrackCertificate
+20240903102427#00004AFC: TCloudClient.CheckMachine
+20240903102427#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903102427#00004AFC: TCloudClient.CreateHttpClient
+20240903102427#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903102427#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903102428#00004AFC: ***** HTTP.DISCONNECT *****
+20240903102428#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903102428#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 10:24:28
+20240903103549#00004AFC: TLifeCycle.TrackCertificate
+20240903103549#00004AFC: TCloudClient.CheckMachine
+20240903103549#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903103549#00004AFC: TCloudClient.CreateHttpClient
+20240903103549#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903103549#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903103550#00004AFC: ***** HTTP.DISCONNECT *****
+20240903103550#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903103550#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 10:35:50
+20240903104851#00004AFC: TLifeCycle.TrackCertificate
+20240903104851#00004AFC: TCloudClient.CheckMachine
+20240903104851#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903104851#00004AFC: TCloudClient.CreateHttpClient
+20240903104851#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903104851#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903104851#00004AFC: ***** HTTP.DISCONNECT *****
+20240903104851#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903104851#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 10:48:51
+20240903110334#00004AFC: TLifeCycle.TrackCertificate
+20240903110334#00004AFC: TCloudClient.CheckMachine
+20240903110334#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903110334#00004AFC: TCloudClient.CreateHttpClient
+20240903110334#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903110334#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903110335#00004AFC: ***** HTTP.DISCONNECT *****
+20240903110335#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903110335#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 11:03:35
+20240903110728#00004AFC: TLifeCycle.PersistTime.Date: 03/09/2024 14:07:28
+20240903111706#00004AFC: TLifeCycle.TrackCertificate
+20240903111706#00004AFC: TCloudClient.CheckMachine
+20240903111706#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903111706#00004AFC: TCloudClient.CreateHttpClient
+20240903111706#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903111706#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903111707#00004AFC: ***** HTTP.DISCONNECT *****
+20240903111707#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903111707#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 11:17:07
+20240903112736#00004AFC: TLifeCycle.TrackCertificate
+20240903112736#00004AFC: TCloudClient.CheckMachine
+20240903112736#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903112736#00004AFC: TCloudClient.CreateHttpClient
+20240903112736#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903112736#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903112742#00004AFC: ***** HTTP.DISCONNECT *****
+20240903112742#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903112742#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 11:27:42
+20240903114212#00004AFC: TLifeCycle.TrackCertificate
+20240903114212#00004AFC: TCloudClient.CheckMachine
+20240903114212#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903114212#00004AFC: TCloudClient.CreateHttpClient
+20240903114212#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903114212#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903114214#00004AFC: ***** HTTP.DISCONNECT *****
+20240903114214#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903114214#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 11:42:14
+20240903115638#00004AFC: TLifeCycle.TrackCertificate
+20240903115638#00004AFC: TCloudClient.CheckMachine
+20240903115638#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903115638#00004AFC: TCloudClient.CreateHttpClient
+20240903115638#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903115638#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903115639#00004AFC: ***** HTTP.DISCONNECT *****
+20240903115639#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903115639#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 11:56:39
+20240903120830#00004AFC: TLifeCycle.TrackCertificate
+20240903120830#00004AFC: TCloudClient.CheckMachine
+20240903120830#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903120830#00004AFC: TCloudClient.CreateHttpClient
+20240903120830#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903120830#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903120832#00004AFC: ***** HTTP.DISCONNECT *****
+20240903120832#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903120832#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 12:08:32
+20240903122147#00004AFC: TLifeCycle.TrackCertificate
+20240903122147#00004AFC: TCloudClient.CheckMachine
+20240903122147#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903122147#00004AFC: TCloudClient.CreateHttpClient
+20240903122147#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903122147#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903122149#00004AFC: ***** HTTP.DISCONNECT *****
+20240903122149#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903122149#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 12:21:49
+20240903123425#00004AFC: TLifeCycle.PersistTime.Date: 03/09/2024 15:34:25
+20240903123526#00004AFC: TLifeCycle.TrackCertificate
+20240903123526#00004AFC: TCloudClient.CheckMachine
+20240903123526#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903123526#00004AFC: TCloudClient.CreateHttpClient
+20240903123526#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903123526#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903123526#00004AFC: ***** HTTP.DISCONNECT *****
+20240903123526#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903123526#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 12:35:26
+20240903124930#00004AFC: TLifeCycle.TrackCertificate
+20240903124930#00004AFC: TCloudClient.CheckMachine
+20240903124930#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903124930#00004AFC: TCloudClient.CreateHttpClient
+20240903124930#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903124930#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903124936#00004AFC: ***** HTTP.DISCONNECT *****
+20240903124936#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903124936#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 12:49:36
+20240903130046#00004AFC: TLifeCycle.TrackCertificate
+20240903130046#00004AFC: TCloudClient.CheckMachine
+20240903130046#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903130046#00004AFC: TCloudClient.CreateHttpClient
+20240903130046#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903130046#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903130047#00004AFC: ***** HTTP.DISCONNECT *****
+20240903130047#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903130047#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 13:00:47
+20240903131353#00004AFC: TLifeCycle.TrackCertificate
+20240903131353#00004AFC: TCloudClient.CheckMachine
+20240903131353#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903131353#00004AFC: TCloudClient.CreateHttpClient
+20240903131353#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903131353#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903131353#00004AFC: ***** HTTP.DISCONNECT *****
+20240903131353#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903131353#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 13:13:53
+20240903132425#00004AFC: TLifeCycle.TrackCertificate
+20240903132425#00004AFC: TCloudClient.CheckMachine
+20240903132425#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903132425#00004AFC: TCloudClient.CreateHttpClient
+20240903132425#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903132425#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903132426#00004AFC: ***** HTTP.DISCONNECT *****
+20240903132426#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903132426#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 13:24:26
+20240903133602#00004AFC: TLifeCycle.TrackCertificate
+20240903133602#00004AFC: TCloudClient.CheckMachine
+20240903133602#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903133602#00004AFC: TCloudClient.CreateHttpClient
+20240903133602#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903133602#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903133603#00004AFC: ***** HTTP.DISCONNECT *****
+20240903133603#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903133603#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 13:36:03
+20240903134851#00004AFC: TLifeCycle.PersistTime.Date: 03/09/2024 16:48:51
+20240903134956#00004AFC: TLifeCycle.TrackCertificate
+20240903134956#00004AFC: TCloudClient.CheckMachine
+20240903134956#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903134956#00004AFC: TCloudClient.CreateHttpClient
+20240903134956#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903134956#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903134957#00004AFC: ***** HTTP.DISCONNECT *****
+20240903134957#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903134957#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 13:49:57
+20240903140038#00004AFC: TLifeCycle.TrackCertificate
+20240903140038#00004AFC: TCloudClient.CheckMachine
+20240903140038#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903140038#00004AFC: TCloudClient.CreateHttpClient
+20240903140038#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903140038#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903140040#00004AFC: ***** HTTP.DISCONNECT *****
+20240903140040#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903140040#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 14:00:40
+20240903141510#00004AFC: TLifeCycle.TrackCertificate
+20240903141510#00004AFC: TCloudClient.CheckMachine
+20240903141510#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903141510#00004AFC: TCloudClient.CreateHttpClient
+20240903141510#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903141510#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903141515#00004AFC: ***** HTTP.DISCONNECT *****
+20240903141515#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903141515#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 14:15:15
+20240903142913#00004AFC: TLifeCycle.TrackCertificate
+20240903142913#00004AFC: TCloudClient.CheckMachine
+20240903142913#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903142913#00004AFC: TCloudClient.CreateHttpClient
+20240903142913#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903142913#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903142914#00004AFC: ***** HTTP.DISCONNECT *****
+20240903142914#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903142914#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 14:29:14
+20240903144151#00004AFC: TLifeCycle.TrackCertificate
+20240903144151#00004AFC: TCloudClient.CheckMachine
+20240903144151#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903144151#00004AFC: TCloudClient.CreateHttpClient
+20240903144151#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903144151#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903144154#00004AFC: ***** HTTP.DISCONNECT *****
+20240903144154#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903144154#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 14:41:54
+20240903145204#00004AFC: TLifeCycle.PersistTime.Date: 03/09/2024 17:52:04
+20240903145447#00004AFC: TLifeCycle.TrackCertificate
+20240903145447#00004AFC: TCloudClient.CheckMachine
+20240903145447#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903145447#00004AFC: TCloudClient.CreateHttpClient
+20240903145447#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903145447#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903145448#00004AFC: ***** HTTP.DISCONNECT *****
+20240903145448#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903145448#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 14:54:48
+20240903150451#00004AFC: TLifeCycle.TrackCertificate
+20240903150451#00004AFC: TCloudClient.CheckMachine
+20240903150451#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903150451#00004AFC: TCloudClient.CreateHttpClient
+20240903150451#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903150451#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903150452#00004AFC: ***** HTTP.DISCONNECT *****
+20240903150452#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903150452#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 15:04:52
+20240903151525#00004AFC: TLifeCycle.TrackCertificate
+20240903151525#00004AFC: TCloudClient.CheckMachine
+20240903151525#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903151525#00004AFC: TCloudClient.CreateHttpClient
+20240903151525#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903151525#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903151526#00004AFC: ***** HTTP.DISCONNECT *****
+20240903151526#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903151526#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 15:15:26
+20240903152851#00004AFC: TLifeCycle.TrackCertificate
+20240903152851#00004AFC: TCloudClient.CheckMachine
+20240903152851#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903152851#00004AFC: TCloudClient.CreateHttpClient
+20240903152851#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903152851#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903152853#00004AFC: ***** HTTP.DISCONNECT *****
+20240903152853#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903152853#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 15:28:53
+20240903153909#00004AFC: TLifeCycle.TrackCertificate
+20240903153909#00004AFC: TCloudClient.CheckMachine
+20240903153909#00004AFC: TCloudClient.MakeGetCall: http://jarvis.fortestecnologia.com.br/Agent/Check?uid=4fe0f0fa-0019-4e33-912c-54430610746b
+20240903153909#00004AFC: TCloudClient.CreateHttpClient
+20240903153909#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903153909#00004AFC: LoadProxySettings file not found "C:\Fortes\Jarvis\JarvisSettings.ini"
+20240903153909#00004AFC: ***** HTTP.DISCONNECT *****
+20240903153909#00004AFC: TCloudClient.TrackCertificate.Timestamp: jtNyqXGXm+S5BA56UsDETje3ccPUaDCH0W+0YCKZb34NsUey9AJAJoHt64RLcYt1+/CALYGOppmEkWAPinAypA==
+20240903153909#00004AFC: TLifeCycle.BackupLastCloudContact.Date: 03/09/2024 15:39:09

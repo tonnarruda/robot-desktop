@@ -1,0 +1,6 @@
+#ProgramDescription=Processador
+#InstallFolder=C:\Fortes\Ponto\
+#BackupFolder=C:\Fortes\Ponto\Uninstall information
+#InstallDate=13/08/2024 11:16:17
+
+CREATEFILE|C:\Fortes\Ponto\Uninst.dat|20240813111618155|IGNORECHANGES
