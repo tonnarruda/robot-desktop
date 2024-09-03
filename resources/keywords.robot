@@ -29,7 +29,7 @@ Clica Botao
 Inicia Sessao
     Start App
     Login no Ponto      ADMIN      
-    Click               Fechar.png
+    Send Keys           ${ESCAPE}
     Screen Contains     home
     Sleep               3
 
