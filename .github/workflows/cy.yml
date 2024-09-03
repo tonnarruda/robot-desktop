@@ -20,10 +20,10 @@ jobs:
         # Instalar Chocolatey
         iex "& { $(irm https://chocolatey.org/install.ps1 -UseBasicP) }"
 
-    - name: Install Java 64-bit
+    - name: Install OpenJDK 20
       run: |
-        # Instalar Java 64-bit usando Chocolatey
-        choco install jdk20 -y
+        # Instalar OpenJDK 20 usando Chocolatey
+        choco install openjdk20 -y
 
     - name: Install dependencies
       run: |
