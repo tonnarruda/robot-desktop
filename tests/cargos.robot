@@ -4,6 +4,8 @@ Resource            ../resources/resources.robot
 Resource            ../resources/database.robot
 
 Suite Setup         Inicia Sessao
+Test Teardown       Quit Application
+Suite Teardown      Driver Teardown
 
 *** Test Cases ***
 Tentativa de Exclusao de Cargo Com Sucesso 

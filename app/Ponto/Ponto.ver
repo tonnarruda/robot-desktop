@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<Versoes>
+  <Versao id="3.316.524" bd="316" data="02/09/2024">
+    <Item motivo="P202408035919">Processamento de Banco de Horas: Ajuste ao sincronizar solicitações de abono com o Fortes Colabore.</Item>
+    <Item motivo="S202405063900">Cadastro de Motivos de Falta: Inclusão de opção para remover prefixo "Falta" de relatórios.</Item>
+    <Item motivo="P202408041585">Cadastro Empregado: Habilitar Reconhecimento Facial para o Fortes Totem.</Item>
+    <Item motivo="P202408023368">Utilitários Configuração: Incluir opção para verificar se o empregado tem horário de virada, na importação de batidas.</Item>
+    <Item motivo="S202311036703">Relatório de Horas-Extras e Relatório de Afastamentos: Inclusão da opção de exibir o nome comercial dos empregados de acordo com as configurações da empresa.</Item>
+    <Item motivo="S202404082846">Perfil de Eventos: Ajuste de ajudinha da opção "Separar Horas Extras Trabalhadas no Feriado"</Item>
+    <Item motivo="S202405057648.1">Aprovação de Abonos: Melhoria para que sejam exibidos os detalhes de abonos analisados.</Item>
+    <Item motivo="S202405057648.2">Aprovação de Abonos: Inclusão de relatório para visualizar abonos.</Item>
+  </Versao>
+  <Versao id="3.314.520" bd="314" data="20/08/2024">
+    <Item motivo="S202307071630">Relatório de Ponto: Envio para o Fortes Colabore.</Item>
+  </Versao>
+  <Versao id="3.313.513" bd="313" data="14/08/2024">
+    <Item motivo="P202407073937">Fortes Colabore: Ajuste ao sincronizar as informações da empresa.</Item>
+    <Item motivo="P202406075360">Importação de Batidas: Melhoria na mensagem de erro quando não existe um empregado cadastrado para a batida.</Item>
+    <Item motivo="P202405006335.1">Cálculo de Horas Extras: Ajuste ao calcular horas extras quando existem batidas desconsideradas.</Item>
+    <Item motivo="P202405006335.2">Tratamento de Batidas: Ajuste ao desconsiderar batidas quando elas possuem data de referência alterada.</Item>
+    <Item motivo="P202408025299">Visibilidade de Empregados: Ajuste para não exibir usuários que não tem visibilidade na empresa logada.</Item>
+    <Item motivo="P202408027213">Visibilidade de Empregados: Ajuste para não exibir usuários duplicados.</Item>
+    <Item motivo="P202408025045">Importação AFD: Melhoria na importação de batidas por arquivo de acordo com a portaria 1510 e 671.</Item>
+  </Versao>
+  <Versao id="3.312.507" bd="312" data="05/08/2024">
+    <Item motivo="P202405049765">Relatório de Resumo do Banco de Horas: Ajuste ao calcular créditos totais e débitos totais.</Item>
+    <Item motivo="P202408000239">Importação AFD: Melhoria na importação de batidas por arquivo de acordo com a portaria 1510 e 671.</Item>
+  </Versao>
+  <Versao id="3.312.504" bd="312" data="31/07/2024">
+    <Item motivo="P202407057707">Fortes Colabore: Ajuste no percentual de similaridade de batida.</Item>
+  </Versao>
+  <Versao id="3.312.502" bd="312" data="31/07/2024">
+    <Item motivo="S202401081426">Processador: Sincronização com o Fortes Colabore.</Item>
+  </Versao>
+  <Versao id="3.312.501" bd="312" data="31/07/2024">
+    <Item motivo="P202405007685">Relatório de Ponto: Ajuste ao calcular totais de horas extras de feriados para empregados com jornadas flexíveis.</Item>
+    <Item motivo="S202407120601">Fortes Agendador: Ajuste ao gravar auditoria ao enviar definições de empresa para o Fortes Colabore.</Item>
+    <Item motivo="S202407014120">Importação AFD: Melhoria na importação de batidas por arquivo de acordo com a portaria 1510.</Item>
+    <Item motivo="P202407052797">Sincronização com o Fortes Pessoal: Tratamento na mensagem de erro quando o código do Cargo possiu caracteres alfanúmeros.</Item>
+    <Item motivo="S202311068410">Cadastro de Usuários: Inclusão do nome do usuário.</Item>
+    <Item motivo="S202404046949">Relatório Crachá: Possibilidade de exibir o nome do estabelecimento.</Item>
+    <Item motivo="P202405007685">Processamento de Banco de Horas: Ajustes ao invalidar banco de horas.</Item>
+    <Item motivo="S202206077422">Situação da empresa: Inclusão da nova opção "Cria mais uma regra de interjornada. Quando houver descanso, somam-se 24h à regra atual".</Item>
+  </Versao>
+  <Versao id="3.309.496" bd="309" data="17/07/2024">
+    <Item motivo="S202406031885" visivel="N">Fortes Colabore: Ajuste ao calcular o tempo de expiração das requisições.</Item>
+    <Item motivo="S202405151930">Banco de Horas: Inclusão de filtro de compensações de saldo convertido para o relatório e a tela de lançamentos do banco de horas.</Item>
+    <Item motivo="P202406031355">Relatório de Ponto: Ajuste no calculo da previsão do dia quando tem afastamento trabalhado.</Item>
+    <Item motivo="P202404057491">Relatório Fotos das Batidas: Ajuste ao consultar a foto do empregado.</Item>
+    <Item motivo="S202403042344" visivel="N">Relatório de Ponto para Controle Diário: Envio por e-mail com o novo Processador.</Item>
+  </Versao>
+  <Versao id="3.306.494" bd="306" data="09/07/2024">
+    <Item motivo="S202405061880">Mapeamento de Jornadas: Inclusão de mensagem de erro ao importar turnos sem horários.</Item>
+    <Item motivo="P202406049677">Relatório Sobre-Aviso: Ajuste nos totalizadores do relatório.</Item>
+    <Item motivo="P202405071537">Relatório de Ponto: Ajuste ao exibir totais de horas extras em feriados quando há exceções nas regras de hora extra e banco de horas.</Item>
+    <Item motivo="P202404070878">Fortes Colabore: Ajuste ao habilitar o reconhecimento facial pelo Fortes Agendador.</Item>
+  </Versao>
+  <Versao id="3.306.493" bd="306" data="26/06/2024">
+    <Item motivo="P2024060599999" visivel="N">Fortes Colabore: Ajuste na sincronização de exclusões de justificativas de falta.</Item>
+    <Item motivo="P202404053953">Remessa de Vale-Refeição: Ajuste ao gerar para empregados com opção de "Considerar Apenas Feriados Específicos" habilitada no Perfil de Eventos.</Item>
+    <Item motivo="P202405049369">Número de Chapa: Ajuste na ferramenta de alteração do número de chapa duplicado.</Item>
+    <Item motivo="P202402070053">Licença de uso: Ajuste no processo de armazenamento dos dados do licenciado.</Item>
+    <Item motivo="S202210041198">Fortes Colabore: Inclusão da opção para excluir mensagem.</Item>
+  </Versao>
+  <Versao id="3.305.492" bd="305" data="29/05/2024">
+    <Item motivo="P202403069001">Fortes Colabore: Ajuste ao receber solicitações de abono de falta com anexo.</Item>
+    <Item motivo="S202404045779">Relatórios: Inclusão de novo relatório em Relatórios > Banco de Horas > Lançamentos do Banco de Horas.</Item>
+    <Item motivo="S202404073495">Fortes Colabore: Inclusão de novas opções "Restringir batida com baixa similaridade" de acordo com o reconhecimento facial e "Habilitar batida de ponto offline no Fortes Colabore Totem".</Item>
+    <Item motivo="S202401053158">Fortes Colabore: Enviar endereços dos estabelecimentos.</Item>
+    <Item motivo="P202404064825">Processamento de Banco de Horas: Ajustes no processo de invalidação/processamento do banco de horas de forma pontual.</Item>
+    <Item motivo="S202404075297">Fortes Colabore: Inclusão do acesso ao Portal do Licenciado em Links úteis.</Item>
+  </Versao>
+  <Versao id="3.302.488" bd="302" data="14/05/2024">
+    <Item motivo="P202404181505">Sincronização com o Fortes Pessoal: Ajuste na sincronização de afastamentos.</Item>
+    <Item motivo="S202309111421">Fortes Agendador: Alteração para instalar múltiplas instâncias na versão Nuvem.</Item>
+    <Item motivo="S202403039498">Fortes Agendador: Melhoria no tratamento da formatação de data.</Item>
+    <Item motivo="P202403075386">Sincronização com o Fortes Pessoal: Ajuste na sincronização via arquivo texto referente aos valores do vale-refeição.</Item>
+    <Item motivo="P202404044512">Fortes Colabore: Ajuste na sincronização de justificativas de falta.</Item>
+    <Item motivo="S202403041099">Exportação Fortes Pessoal: Ajuste ao exportar conversões de saldo de Banco de Horas quando não há evento de exportação.</Item>
+  </Versao>
+  <Versao id="3.301.486" bd="301" data="15/04/2024">
+    <Item motivo="S202403052491">Links Úteis: Inclusão do conteúdo de requisitos do Fortes Colabore Totem.</Item>
+    <Item motivo="P202312043035">Escalas de Folga: Melhoria na lentidão ao editar escalas de folga.</Item>
+    <Item motivo="S202312080554">Cadastro de Empregados: Ajuste ao alterar o código de empregados.</Item>
+    <Item motivo="S202402040638">Remessa Vale Transporte: Divisão do layout de arquivo do Sindiônibus para 'Urbano' e 'Metropolitano'.</Item>
+    <Item motivo="P202402070084">Fortes Agendador: Ajuste ao importar as batidas do Fortes Totem que não possuem endereço.</Item>
+    <Item motivo="P202403026507">Relatório de Horas Extras: Ajuste no totalizador de horas extras.</Item>
+    <Item motivo="P202403018452">Fortes Colabore: Ajuste no filtro ao carregar assinaturas de folha de ponto.</Item>
+    <Item motivo="P202402057123">Fortes Colabore: Ajuste ao receber assinaturas da folha de ponto.</Item>
+    <Item motivo="P202312039695">Relatório de Horas-Extras: Ajuste no cálculo de horas adicionais quando existem exceções por faixa.</Item>
+    <Item motivo="P202404006993">Sincronização com o Fortes Pessoal: Melhoria de performance ao alterar a data final de afastamentos enviados para o Fortes Colabore.</Item>
+    <Item motivo="P202403023013">Cadastro de Jornadas de Trabalho: Ajuste ao gerar o próximo código disponível.</Item>
+    <Item motivo="S202311056584">Fortes Colabore: Inclusão para receber batidas já processadas de múltiplos empregados em um período.</Item>
+  </Versao>
+  <Versao id="3.299.484" bd="299" data="29/02/2024">
+    <Item motivo="S202402071405">Relatório de Ponto: Ajuste ao exibir informações do banco de horas.</Item>
+    <Item motivo="P202310006189">Fortes Agendador: Ajuste ao carregar configurações do banco de dados.</Item>
+    <Item motivo="P202311006912">Importação de Batidas: Ajuste ao importar batidas com data futura.</Item>
+    <Item motivo="P202401071572">Fortes Agendador: Ajuste na importação das batidas.</Item>
+    <Item motivo="P202401095836" visivel="N">Fortes Report: Atualização para a versão 3.137.</Item>
+    <Item motivo="P202401064003">Fortes Colabore: Ajuste ao receber assinaturas da folha de ponto.</Item>
+    <Item motivo="S202309022559">Integração com o Fortes Colabore: Ajuste ao realizar o processamento do banco de horas pendente no envio de saldo.</Item>
+    <Item motivo="S202402067403" visivel="N">Inicialização do sistema: Inserção de splash informativo sobre o Controle de reconhecimento facial.</Item>
+    <Item motivo="S202109066578">Fortes Colabore: Reconhecimento Facial - Liberação por empregado.</Item>
+    <Item motivo="S202402191421">Cadastro do Relógio: Atualização e Homologação da Dll do relógio ControlID para a versão 1.24.1.5.</Item>
+  </Versao>
+  <Versao id="3.297.476" bd="297" data="07/02/2024">
+    <Item motivo="P202402007894">Importação de Batidas: Ajuste ao importar batidas on-line.</Item>
+  </Versao>
+  <Versao id="3.296.475" bd="296" data="01/02/2024">
+    <Item motivo="P202307067980">Cadastro de Empregados: Melhoria ao informar duplicação de PIS.</Item>
+    <Item motivo="P202311000190">Cálculo de Horas Extras: Ajuste ao calcular horas extras para empregados com jornadas flexíveis e perfil de evento com opção de separar horas extras trabalhadas no feriado.</Item>
+    <Item motivo="P202310061931">Escalas de Trabalho e Folga: Ajuste no comportamento quando o usuário é dono da escala.</Item>
+    <Item motivo="P202311079666">Processamento de Banco de Horas: Ajustes ao invalidar banco de horas.</Item>
+    <Item motivo="P202401005136">Conversão Banco de Horas: Melhoria na performance durante o carregamento dos saldos.</Item>
+    <Item motivo="P202401035811">Conversão Banco de Horas: Ajuste ao carregar os saldos na tela de conversão.</Item>
+    <Item motivo="P202311073198">Configuração do Relógio: Inclusão do sdk na versão 2.0.1.1 para o modelo inner rep bio prox da Top data.</Item>
+    <Item motivo="S202311007571">Escalas: Não editar escalas de folgas e trabalho quando a data final estiver dentro do período do encerramento.</Item>
+    <Item motivo="S202209022581">Integração com o Fortes Colabore: Inclusão da data de solicitação para os abonos.</Item>
+    <Item motivo="S202309008443" visivel="N">Alterações das informações de contato com os especialistas, incluindo e-mail e telefone.</Item>
+    <Item motivo="P202401006750">Relatório de Ponto: Ajuste ao calcular totais de adicionais noturnos.</Item>
+    <Item motivo="P202312058299">Auditoria do Sistema: Ajuste na auditoria ao sincronizar batidas com o Fortes Colabore.</Item>
+    <Item motivo="P202401045681" visivel="N">Login do Sistema: Ajuste ao baixar arquivos do reconhecimento facial utilizando proxy.</Item>
+    <Item motivo="S202305028445">Cadastro do Relógio: Homologação do relógio ControlID Class Multi.</Item>
+  </Versao>
+  <Versao id="3.295.471" bd="295" data="26/12/2023">
+    <Item motivo="S202109066578">Integração com o Fortes Colabore: Controle de reconhecimento facial.</Item>
+    <Item motivo="P202311062845">Importação de Batidas: Ajuste ao importar arquivo AFD com a opção somente batidas habilitada.</Item>
+    <Item motivo="P202310072369">Compensações: Ajuste na geração em lote.</Item>
+    <Item motivo="P202311021244">Situação de Empregados: Inclusão de mensagem de ajuda para a opção de intervalo de importação de batidas em alterações em lote.</Item>
+    <Item motivo="P202308087443">Processamento de Banco de Horas: Melhoria na data de encerramento.</Item>
+    <Item motivo="S202303023536">Fortes Colabore: Inclusão de opção para restringir batida de ponto off-line para empregados.</Item>
+    <Item motivo="P202310085627">Sincronização com o Fortes Pessoal: Ajuste ao sincronizar um profissional de saúde com nome alterado no Fortes Pessoal.</Item>
+    <Item motivo="P202312001996">Regras de Horas-Extras e Banco de Horas: Ajustes na invalidação do Banco de horas diante de eventuais modificações.</Item>
+    <Item motivo="S23121999999" visivel="N">Integração com o Fortes Colabore: Habilitar reconhecimento facial por licenciado.</Item>
+    <Item motivo="P202312060340">Justificativa de Falta: Ajuste ao excluir justificativas de falta pela tela de consulta de batidas.</Item>
+  </Versao>
+  <Versao id="3.292.467" bd="292" data="12/12/2023">
+    <Item motivo="P202312111500">Atualização do Banco de Dados: Ajuste ao atualizar o banco de dados quando o Perfil de Eventos tem referência nula para as Regras de Conversão.</Item>
+  </Versao>
+  <Versao id="3.291.466" bd="291" data="05/12/2023">
+    <Item motivo="P202309072234">Tratamento de batidas: Melhora na performance da tela.</Item>
+    <Item motivo="P202309061382">Situação de Empregados: Ajuste de mensagem de ajuda na geração em lote quando há alteração de REP.</Item>
+    <Item motivo="P202307006290">Relatórios: Inclusão de configuração da empresa para que a logo da empresa seja oculta em relatórios.</Item>
+    <Item motivo="P202310059720">Integração Fortes Colabore: Ajuste na exclusão de batidas com origem nula.</Item>
+    <Item motivo="P202309064479">Regras de Conversão do Banco de Horas: Inclusão de opção para excluir na tela de cadastros.</Item>
+    <Item motivo="P202311019397">Fortes Colabore: Ajuste ao receber assinaturas do Relatório de Ponto.</Item>
+    <Item motivo="P202309071720">Relatório de Ponto: Ajuste ao gerar relatório de ponto detalhado com ordenação por lotação.</Item>
+    <Item motivo="P202310087369">Integração Fortes Colabore: Ajuste na exclusão de batidas, batidas automáticas, justificativas de faltas, afastamentos e solicitação de abonos.</Item>
+    <Item motivo="S23011199999" visivel="N">Fortes Colabore: Alteração para usar a nova API.</Item>
+    <Item motivo="P202310077760">Justificativa de Falta: Ajuste ao excluir justificativas de falta pela tela de consulta de batidas.</Item>
+  </Versao>
+  <Versao id="3.290.463" bd="290" data="03/11/2023">
+    <Item motivo="S22100499998">Fortes Ponto: Inclusão de nova modalidade de licença de uso – Ponto Light.</Item>
+    <Item motivo="P202310070994">Situação de Empregados: Ajuste na geração em lote quando há alteração de REP.</Item>
+    <Item motivo="S202309051855">Remessa Vale Transporte: Ajustar layout pedido de vales do sindionibus.</Item>
+    <Item motivo="P202309082401">Restauração de Empresa: Ajuste na restauração de backup de empresa.</Item>
+    <Item motivo="P202310051934">Relatório de Sobre-Aviso: Ajuste no cálculo de sobre-aviso.</Item>
+    <Item motivo="P202310028609">Integração Fortes Colabore: Ajuste ao gerar novos endereços em lote.</Item>
+    <Item motivo="P202310059720">Integração Fortes Colabore: Ajuste na exclusão de batidas com origem nula.</Item>
+  </Versao>
+  <Versao id="3.290.460" bd="290" data="20/10/2023">
+    <Item motivo="P202308090985">Compensação: Ajuste na geração em lote.</Item>
+    <Item motivo="P202308093348">Regras de Horas-Extras e Banco de Horas: Ajuste no cálculo de horas extras quando existem exceções por quantidade.</Item>
+    <Item motivo="P202309150023">Processamento Banco de Horas: Ajuste na tela de processamento Banco de Horas.</Item>
+    <Item motivo="P202309045367">Cálculo de Horas Extras: Inclusão da opção para forçar batidas flexíveis a serem tratadas como fixas em dia com feriado desconsiderado.</Item>
+    <Item motivo="P202309017638">Cadastro de Empregados: Ajuste para que os espaços em branco do campo e-mail sejam desconsiderados no momento de salvar o empregado.</Item>
+    <Item motivo="P202308087443">Processamento de Banco de Horas: Melhoria na lentidão do encerramento de período.</Item>
+    <Item motivo="P202308014408">Conversão de Saldo: Ajuste no cálculo do saldo.</Item>
+  </Versao>
+  <Versao id="3.289.458" bd="289" data="05/09/2023">
+    <Item motivo="P202307055681">Relatório de Ponto: Ajuste ao exibir batidas em dia de feriado para empregados que não controlam ponto.</Item>
+    <Item motivo="P202305073366">Integração Fortes Colabore: Ajuste ao receber solicitações de abono existentes no Fortes Ponto.</Item>
+    <Item motivo="P202307035622">Login do sistema: Ajuste ao exibir texto da versão de demonstração.</Item>
+    <Item motivo="P202308031158.1">Integração Fortes Colabore: Ajuste na sincronização do envio de batidas.</Item>
+    <Item motivo="P202308031158.2">Auditoria do Sistema: Inclusão de ferramenta para limpeza.</Item>
+  </Versao>
+  <Versao id="3.288.456" bd="288" data="22/08/2023">
+    <Item motivo="P202307029746">Atrasos e Saídas Antecipadas: Ajuste no cálculo de atrasos quando a jornada de trabalho é flexível.</Item>
+    <Item motivo="P202307041917">Importação de Batidas: Ajuste ao importar batidas do arquivo AFD.</Item>
+    <Item motivo="P202306036906">Associação de Batidas: Melhoria na performance do sistema.</Item>
+    <Item motivo="P202305084622">Escalas de Trabalho: Ajuste ao editar escalas de trabalho com turno de sobre-aviso.</Item>
+    <Item motivo="P2023072199999">Escala de Trabalho: Inclusão de alerta das escalas de sobre-aviso inconsistentes.</Item>
+    <Item motivo="P202307000849">Cadastro de Feriados: Ajuste na previsão de feriados quando há feriados móveis e fixos com a mesma data.</Item>
+    <Item motivo="P202307006290">Relatório Escala de Folga: Melhoria na performance.</Item>
+    <Item motivo="S202308014796">Mapeamento Jornadas: Ajuste na validação de jornadas inconsistentes.</Item>
+    <Item motivo="P202305029506">Consulta de Batidas: Ajuste ao tentar editar uma batida quando o usuário tem permissão total.</Item>
+    <Item motivo="P202307072345">Sincronização com o Fortes Pessoal: Ajuste no status de envio do empregado para o Fortes Colabore.</Item>
+    <Item motivo="P202307077225">Processamento de Batidas: Melhoria de performance.</Item>
+  </Versao>
+  <Versao id="3.288.453" bd="288" data="03/08/2023">
+    <Item motivo="P202207048069">Configuração: Inclusão da opção que permite encerrar o período somente se o banco de horas for processado.</Item>
+    <Item motivo="P202305066008">Fortes Agendador: Ajuste na inclusão das batidas.</Item>
+    <Item motivo="S202211009791">Regras de Horas-Extras e Banco de Horas: Inclusão de opção para exportar evento secundário de feriados.</Item>
+    <Item motivo="P202302061701">Aprovação de Abono: Ajuste na verificação ao reverter análise de solicitações de abono.</Item>
+    <Item motivo="P202307037012">Importação de Batidas: Ajuste na validação do tipo de portaria do arquivo AFD.</Item>
+    <Item motivo="P202307020166">Processador: Ajuste no processamento do banco de horas.</Item>
+  </Versao>
+  <Versao id="3.287.450" bd="287" data="24/07/2023">
+    <Item motivo="P202307046701">Tratamento de batidas: Melhora na performance da tela.</Item>
+    <Item motivo="P202307031580">Integração Fortes Colabore: Ajuste na sincronização do envio de batidas.</Item>
+    <Item motivo="P202307025976">Escala de Trabalho: Ajuste ao incluir escalas de trabalho de sobre-aviso.</Item>
+    <Item motivo="P202307039488">Importação de Batidas: Ajuste ao importar batidas do relógio online.</Item>
+  </Versao>
+  <Versao id="3.287.447" bd="287" data="11/07/2023">
+    <Item motivo="P23053199990" visivel="N">Ponto Nuvem: Permitir executar o sistema através de atalho para uma unidade de rede.</Item>
+    <Item motivo="P202306000851" visivel="N">Login: Ajuste na data de notificação do limite de empregados ao logar com o usuário SOS.</Item>
+    <Item motivo="P202306000789">Integração com o Fortes Colabore: Melhoria para evitar lentidão ao carregar o hash do estabelecimentos para batidas da portaria 671.</Item>
+    <Item motivo="P202305066282">Remessa de Vale Refeição: Ajuste na geração de remessa.</Item>
+    <Item motivo="P202305071529">Login no sistema: Ajuste na utilização de DLLs em banco firebird para acesso em terminais.</Item>
+    <Item motivo="P202305016070.1">Integração Fortes Colabore: Ajuste na sincronização do envio de batidas.</Item>
+    <Item motivo="P202305016070.2">Fortes Agendador: Ajuste na quantidade limite de registros no log do agendador.</Item>
+    <Item motivo="P202302074330">Aprovação de Abono: Correção ao sincronizar as solicitações de abono com o Fortes Colabore.</Item>
+    <Item motivo="P202305070637">Relatório de Atrasos e Saídas Antecipadas: Ajuste na visualização do relatório.</Item>
+    <Item motivo="P202306024281">Sincronização com o Fortes Pessoal: Ajuste ao importar afastamentos.</Item>
+    <Item motivo="P202306029177">Relatório de Ponto: Ajuste na visualização quando existe justificativa de falta abonando todo o dia.</Item>
+    <Item motivo="P202305081914">Ajuste na exclusão do empregado quando tem visibilidade.</Item>
+    <Item motivo="P202306002651">Perfil de acesso: Ajuste para considerar apenas as opções selecionadas.</Item>
+    <Item motivo="P202306051613">Cadastro do Relógio: Definir o tempo e espera como 3000 para todos os registros.</Item>
+    <Item motivo="P202306091000">Sincronização Fortes Pessoal: Ajuste na inclusão de empregados observando a faixa contratada.</Item>
+    <Item motivo="P202306042448">Mapeamento das jornadas: Ajuste nos mapeamentos com inconsistências.</Item>
+    <Item motivo="S23061399999" visivel="N">Licença de Uso: Retirar dependência do remprot dos mecanismo de licença Jarvis e Webzado.</Item>
+    <Item motivo="P202306020263">Agendador: Ajuste na inclusão de registros nos logs.</Item>
+    <Item motivo="S202305036572">Importação de Batidas: Melhoria da validação do CPF/PIS quando o arquivo AFD da Portaria 671.</Item>
+  </Versao>
+  <Versao id="3.286.444" bd="286" data="30/05/2023">
+    <Item motivo="P202302064412">Sincronização com o Fortes Pessoal: Ajuste na importação de atestados de empregados demitidos.</Item>
+    <Item motivo="P202302029592">Consulta de batidas: Ajuste ao associar batidas cuja jornada possui virada de dia.</Item>
+    <Item motivo="P202303061210">Regras de Horas-Extras e Banco de Horas: Ajuste no cálculo de horas extras quando as opções  "Tolerância após flexibilizar" e "Flexibilizar Apenas Intervalos" estão marcadas.</Item>
+    <Item motivo="S202304241744">Executar Sistema: Alteração para bloquear a execução do sistema a partir de um atalho que aponta para uma unidade na rede.</Item>
+    <Item motivo="S202304262242" visivel="N">SQL Server: Alteração do nível de isolamento transacional para READ_COMMITTED_SNAPSHOT.</Item>
+    <Item motivo="S202301048032">Remessa de Vale Refeição: Inclusão de opção para gerar Vale Refeição em dias de Folga Trabalhada.</Item>
+    <Item motivo="S202302059249">Configuração do Sistema: Possibilidade de não exibir dia de feriado nos relatórios para empregados que não controlam ponto.</Item>
+    <Item motivo="P202303027031">Restauração de Empresa: Ajuste na restauração de backup de empresa.</Item>
+    <Item motivo="P202304035406">Jornada de Trabalho: Ajuste no cálculo de horas extras quando a opção "Flexível" estiver desmarcada.</Item>
+    <Item motivo="P202305046765">Ajuste na inclusão dos registros memória ARP.</Item>
+    <Item motivo="S23041099999">Envio de email para o comercial quando a empresa está próxima ou atingiu o limite de admissões que a licença permite.</Item>
+  </Versao>
+  <Versao id="3.285.443" bd="285" data="10/05/2023">
+    <Item motivo="P2023040699999" visivel="N">FinalBuilder: Ajustes no deploy.</Item>
+    <Item motivo="P202304047131">Processar Resumo dos Empregados: Melhoria e ajuste ao processar Resumo dos Empregados.</Item>
+    <Item motivo="P202302063712">Tratamento de batidas: Melhora na performance do processamento da geração de batidas em lote.</Item>
+    <Item motivo="P202302041087">Processamento do Banco de Horas: Ajuste no saldo do banco de horas.</Item>
+    <Item motivo="P202302006114">Processamento do Banco de Horas: Ajuste no erro de deadlock.</Item>
+    <Item motivo="S202011000211">Situação do Empregado: Inclusão da nova opção "Ponto por Exceção" de acordo com Art. 74 § 4 Consolidação das Leis do Trabalho - Decreto Lei 5452/43.</Item>
+    <Item motivo="S2023020799999" visivel="N">Licença de Uso: Atualização no controle de licenciamento para clientes on-premises utilizarem o Jarvis.</Item>
+  </Versao>
+  <Versao id="3.284.442" bd="284" data="13/04/2023">
+    <Item motivo="P202210032325">Consulta de Batidas: Ajuste no comportamento ao tentar editar ou excluir batidas com justificativa de Atraso/SA.</Item>
+    <Item motivo="P202211036968">Justificativa de Atrasos ou Saídas Antecipadas: Possibilidade de justificar atraso quando considero intervalos no meio de um turno previsto como atraso.</Item>
+    <Item motivo="S202111077642">Perfil de Eventos: Alteração na nomenclatura do check "Considerar horas trabalhadas no feriado como Hora extra" para "Separar horas extras trabalhadas no feriado".</Item>
+    <Item motivo="P202301027245">Relatório de Ponto: Ajuste na visualização do relatório quando o sistema identifica necessidade do processamento de banco de horas.</Item>
+    <Item motivo="P202302006431">Relatórios: Ajuste na visualização dos relatórios de Controle de Frequência e Espelho de ponto ao visualizar empregados que não controlam ponto quando estão em escala de folga.</Item>
+    <Item motivo="P23012599997">Sugestão de Melhoria: Ajuste na abertura de Solicitação de Melhorias quando não existe nenhum solicitante.</Item>
+    <Item motivo="P202301060518">Sincronização com o Fortes Pessoal: Ajuste no comportamento quando um profissional de saúde é excluído do Fortes Pessoal.</Item>
+    <Item motivo="P202212026259">Remessa de Vale-Transporte: Melhoria de performance na movimentação.</Item>
+    <Item motivo="P202302005098.1">Visibilidade de Empregados: Alteração na nomenclatura do Checkbox "Visibilidade Total" para "Visualizar todos os empregados na empresa Fortes Ponto".</Item>
+    <Item motivo="P202302005098.2">Visibilidade de Empregados: Alteração na nomenclatura do Checkbox "Sincronizar empregados selecionados com o Fortes Colabore" para "Permitir o envio dos empregados selecionados para o Fortes Colabore".</Item>
+    <Item motivo="P202301020359">Configuração do sistema: Ajuste na auditoria referente a ações com as chaves de acesso do Fortes Colabore.</Item>
+    <Item motivo="P23022499999">Agendador: Inclusão da origem da batida na importação de batidas de REP e arquivo..</Item>
+    <Item motivo="S202206077344">Exportação Fortes Pessoal: Possibilidade de exportar desconto de vale refeição dos refeitórios.</Item>
+    <Item motivo="P202301058185">Login do Sistema: Bloqueio do menu durante o login no sistema.</Item>
+    <Item motivo="P202302070371">Agendador: Ajuste na sincronização dos motivos de Atraso/SA, Falta e Hora-Extra.</Item>
+    <Item motivo="S202303161221" visivel="N">Pesquisa NPS: Atualização para a nova versão 1.0.4.</Item>
+    <Item motivo="S202208005268">Configuração do sistema: Possibilidade de desconsideração automática de batidas pré-assinaladas.</Item>
+    <Item motivo="P202209045172">Configuração Relógio: Ajuste ao configurar relógio Gertec BPD.</Item>
+    <Item motivo="P202301051714">Integração com o Fortes Colabore: Melhoria na sincronização de batidas quando existe tratamento de batidas geradas em lotes.</Item>
+    <Item motivo="P202303057975">Processar Resumo dos Empregados: Ajuste no processamento de horas extras do Resumo de Empregados.</Item>
+    <Item motivo="P202302044893">Tratamento de batidas: Ajuste ao incluir batidas com cliques duplos.</Item>
+  </Versao>
+  <Versao id="3.283.441" bd="283" data="27/01/2023">
+    <Item motivo="P202301072112">Importação de Batidas: Ajuste na importação de batidas de relógio.</Item>
+  </Versao>
+  <Versao id="3.283.439" bd="283" data="26/01/2023">
+    <Item motivo="S22100499998">Fortes Ponto: Inclusão de nova modalidade de licença de uso – Ponto Light.</Item>
+    <Item motivo="P202211061368">Fortes Colabore: Ajuste na sincronização das configurações de visibilidade ao excluir geridos.</Item>
+    <Item motivo="P202211046595">Fortes Colabore: Ajuste na sincronização das configurações de visibilidade de gestores.</Item>
+    <Item motivo="P202212002514">Relatório de Feriados Trabalhados: Ajuste ao exibir feriado trabalhado com batida que possui data de referência alterada.</Item>
+    <Item motivo="P202212061566">Relatório de Atrasos e Saídas Antecipadas: Ajuste ao agrupar relatório com leiaute resumido.</Item>
+    <Item motivo="P202209030821">Agendador: Ajuste na importação de batidas.</Item>
+    <Item motivo="P22122299999">Importação Batidas do SASCAR: Ajuste na importação de batidas quando o empregado está vinculado a empresa diferentes.</Item>
+    <Item motivo="S22010000036">Portaria 671: Geração do arquivo eletrônico de jornada (AEJ).</Item>
+    <Item motivo="S202207034289">Configuração do sistema: Inclusão de opção que permite incluir empregados que não controlam ponto em escalas de folga e escalas de trabalho.</Item>
+    <Item motivo="S202211050954">Cadastro Empresa: Substituição da inscrição CEI para o cadastro do Estabelecimento.</Item>
+    <Item motivo="S22080399997">Fortes Colabore: Envio da inscrição CEI do estabelecimento.</Item>
+    <Item motivo="P202208036201">Situação de Empregados: Ajuste na validação do dia de início da jornada do tipo escala na geração em lote.</Item>
+    <Item motivo="S22010000036">Portaria 671: Inclusão do fuso horário nas batidas.</Item>
+    <Item motivo="S202103069999">Fortes Colabore: Inclusão da opção Controle de Assinatura do Relatório de Ponto.</Item>
+  </Versao>
+</Versoes>
+
