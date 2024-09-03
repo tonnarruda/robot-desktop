@@ -15,17 +15,15 @@ jobs:
       with:
         python-version: '3.8'
 
+    - name: Install Chocolatey
+      run: |
+        # Instalar Chocolatey
+        iex "& { $(irm https://chocolatey.org/install.ps1 -UseBasicP) }"
+
     - name: Install Java 64-bit
       run: |
-        # Baixar o instalador do Java 64-bit
-        Invoke-WebRequest -Uri "https://download.java.com/java/GA/jdk20/8d0a5e0d1b8e4d9c9e0a6f6b8f637fc1/6c14c07a3a184d7d9f25e6c83757395b/jdk-20_windows-x64_bin.exe" -OutFile "jdk-20-windows-x64_bin.exe"
-        
-        # Executar o instalador
-        Start-Process -FilePath "jdk-20-windows-x64_bin.exe" -ArgumentList "/s" -Wait
-
-        # Configurar JAVA_HOME e PATH
-        [Environment]::SetEnvironmentVariable("JAVA_HOME", "C:\Program Files\Java\jdk-20", [System.EnvironmentVariableTarget]::Machine)
-        [Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Program Files\Java\jdk-20\bin", [System.EnvironmentVariableTarget]::Machine)
+        # Instalar Java 64-bit usando Chocolatey
+        choco install jdk20 -y
 
     - name: Install dependencies
       run: |
