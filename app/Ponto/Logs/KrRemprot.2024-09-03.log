@@ -94,3 +94,36 @@ Machine DESKTOP-9TSTFHH:7C4C6124
 191738 TConversionThread.Create
 191738 FireNeedProxyInfo()
 191738 Execute in 19:22:38
+192537 LoadSettings File|C:\workspace\robot-desktop\app\Ponto\Ponto.ini|Local|localhost:50001|3000|Normal|Socket||
+192537 RemProt_LoadLicense
+192540 TConversionMgr.SetRequiredInfo()
+192540 CustomerLoaded Unregistered|||30/12/1899
+192540 SaveSettings Local|localhost:50001|3000|Normal|Socket||
+192632 TConversionMgr.SetRequiredInfo()
+192632 CustomerLoaded Unregistered|||30/12/1899
+192632 SaveSettings Local|localhost:50001|3000|Normal|Socket||
+192731 TConversionMgr.SetRequiredInfo()
+192731 CustomerLoaded Unregistered|||30/12/1899
+192731 SaveSettings Local|localhost:50001|3000|Normal|Socket||
+192753 ReadEngineFromIni: lekRemprot
+192753 TConversionThread.Create
+192753 FireNeedProxyInfo()
+192753 Execute in 19:28:53
+192754 LoadSettings File|C:\workspace\robot-desktop\app\Ponto\Ponto.ini|Local|localhost:50001|3000|Normal|Socket||
+192754 RemProt_LoadLicense
+192756 TConversionMgr.SetRequiredInfo()
+192756 CustomerLoaded Unregistered|||30/12/1899
+192756 SaveSettings Local|localhost:50001|3000|Normal|Socket||
+192835 ReadEngineFromIni: lekRemprot
+192836 TConversionThread.Create
+192836 FireNeedProxyInfo()
+192836 Execute in 19:37:36
+192837 LoadSettings File|C:\workspace\robot-desktop\app\Ponto\Ponto.ini|Local|localhost:50001|3000|Normal|Socket||
+192837 RemProt_LoadLicense
+192843 ReadEngineFromIni: lekRemprot
+192843 TConversionThread.Create
+192843 FireNeedProxyInfo()
+192843 Execute in 19:31:43
+192855 TConversionMgr.SetRequiredInfo()
+192855 CustomerLoaded Unregistered|||30/12/1899
+192855 SaveSettings Local|localhost:50001|3000|Normal|Socket||
