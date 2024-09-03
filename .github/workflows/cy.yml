@@ -25,13 +25,15 @@ jobs:
         # Instalar JRE 8u421 usando Chocolatey
         choco install jre8 --version 8.0.421 -y
 
-    - name: Install WinAppDriver
+    - name: Copy WinAppDriver to Program Files
       run: |
-        # Baixar o WinAppDriver
-        Invoke-WebRequest -Uri "https://github.com/microsoft/WinAppDriver/releases/download/v1.2/WinAppDriverSetup.exe" -OutFile "WinAppDriverSetup.exe"
-        
-        # Instalar o WinAppDriver
-        Start-Process -FilePath "WinAppDriverSetup.exe" -ArgumentList "/quiet" -Wait
+        # Criar o diretório se não existir
+        if (-not (Test-Path "C:\Program Files (x86)\Windows Application Driver")) {
+          New-Item -ItemType Directory -Path "C:\Program Files (x86)\Windows Application Driver"
+        }
+
+        # Copiar o WinAppDriver.exe para o diretório de destino
+        Copy-Item -Path ".\WinAppDriver.exe" -Destination "C:\Program Files (x86)\Windows Application Driver\WinAppDriver.exe"
 
     - name: Start WinAppDriver
       run: |
