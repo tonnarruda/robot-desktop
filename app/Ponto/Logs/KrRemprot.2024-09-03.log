@@ -44,3 +44,53 @@ Machine DESKTOP-9TSTFHH:7C4C6124
 174654 TConversionMgr.SetRequiredInfo()
 174654 CustomerLoaded Unregistered|||30/12/1899
 174654 SaveSettings Local|localhost:50001|3000|Normal|Socket||
+191454 ReadEngineFromIni: lekRemprot
+191454 TConversionThread.Create
+191454 FireNeedProxyInfo()
+191454 Execute in 19:15:54
+191509 ReadEngineFromIni: lekRemprot
+191509 TConversionThread.Create
+191509 FireNeedProxyInfo()
+191509 Execute in 19:19:09
+191510 LoadSettings File|C:\workspace\robot-desktop\app\Ponto\Ponto.ini|Local|localhost:50001|3000|Normal|Socket||
+191510 RemProt_LoadLicense
+191517 ReadEngineFromIni: lekRemprot
+191517 TConversionThread.Create
+191517 FireNeedProxyInfo()
+191517 Execute in 19:16:17
+191552 ReadEngineFromIni: lekRemprot
+191552 TConversionThread.Create
+191552 FireNeedProxyInfo()
+191552 Execute in 19:22:52
+191604 ReadEngineFromIni: lekRemprot
+191604 TConversionThread.Create
+191604 FireNeedProxyInfo()
+191604 Execute in 19:22:04
+191605 LoadSettings File|C:\workspace\robot-desktop\app\Ponto\Ponto.ini|Local|localhost:50001|3000|Normal|Socket||
+191605 RemProt_LoadLicense
+191609 TConversionMgr.SetRequiredInfo()
+191609 CustomerLoaded Unregistered|||30/12/1899
+191609 SaveSettings Local|localhost:50001|3000|Normal|Socket||
+191613 ReadEngineFromIni: lekRemprot
+191613 TConversionThread.Create
+191613 FireNeedProxyInfo()
+191613 Execute in 19:23:13
+191708 ReadEngineFromIni: lekRemprot
+191708 TConversionThread.Create
+191708 FireNeedProxyInfo()
+191708 Execute in 19:22:08
+191709 LoadSettings File|C:\workspace\robot-desktop\app\Ponto\Ponto.ini|Local|localhost:50001|3000|Normal|Socket||
+191709 RemProt_LoadLicense
+191710 TConversionMgr.SetRequiredInfo()
+191710 CustomerLoaded Unregistered|||30/12/1899
+191710 SaveSettings Local|localhost:50001|3000|Normal|Socket||
+191731 ReadEngineFromIni: lekRemprot
+191731 TConversionThread.Create
+191731 FireNeedProxyInfo()
+191731 Execute in 19:22:31
+191732 LoadSettings File|C:\workspace\robot-desktop\app\Ponto\Ponto.ini|Local|localhost:50001|3000|Normal|Socket||
+191732 RemProt_LoadLicense
+191738 ReadEngineFromIni: lekRemprot
+191738 TConversionThread.Create
+191738 FireNeedProxyInfo()
+191738 Execute in 19:22:38

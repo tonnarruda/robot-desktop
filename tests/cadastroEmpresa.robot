@@ -2,10 +2,11 @@
 Resource            ../resources/keywords.robot
 Resource            ../resources/resources.robot
 
-Test Setup          Start App
+Test Setup          Inicia Sessao
 Test Teardown       Quit Application
 Suite Teardown      Driver Teardown
 Force Tags          Windows
+
 
 *** Test Cases ***
 Tentativa de Exclusao de Empresa Logada
