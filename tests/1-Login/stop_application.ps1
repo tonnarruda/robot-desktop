@@ -1,0 +1,1 @@
+Write-Output "Teste de execução de PowerShell"
