@@ -19,8 +19,11 @@ Start App
 
 Inicia Sessao
     Start App
-    Login no Ponto      ADMIN      
-    Send Keys           ${ESCAPE}
+    Login no Ponto      ADMIN  
+    Log To Console    Loguei  
+    Wait Until Screen Contain        Fechar    60  
+    Log To Console    Cliquei no Botao Fechar e agora espero 15 segundos
+    Clica Botao    Fechar
     Sleep               15
 
 Run Python Script To Kill Process
