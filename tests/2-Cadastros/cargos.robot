@@ -3,12 +3,13 @@ Resource            ../../resources/keywords.robot
 Resource            ../../resources/resources.robot
 Resource            ../../resources/database.robot
 
-Test Setup          Inicia Sessao
+Test Setup          Start App
 Test Teardown       Finaliza App
 Force Tags          Windows
 
 *** Test Cases ***
 Tentativa de Exclusao de Cargo Com Sucesso 
+    Login no Ponto      ADMIN
     Log To Console    Passei Pelo Login
     Insert Cargo        999
     Log To Console    Consegui Acessar o cadastro de Empresa
