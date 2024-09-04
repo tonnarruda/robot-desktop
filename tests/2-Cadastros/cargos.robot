@@ -10,9 +10,10 @@ Force Tags          Windows
 *** Test Cases ***
 Tentativa de Exclusao de Cargo Com Sucesso 
     Login no Ponto      ADMIN
-    Log To Console    Passei Pelo Login
+    Clica Botao         Fechar
+    Log To Console      Passei Pelo Login
     Insert Cargo        999
-    Log To Console    Consegui Acessar o cadastro de Empresa
+    Log To Console      Consegui Acessar o cadastro de Empresa
     Acessar Cadastro Cargo
     Click               Pesquisa.png
     Send Keys           999
