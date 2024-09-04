@@ -3,7 +3,7 @@ name: Run Robot Framework Tests
 on: [push, pull_request]
 
 jobs:
-  test:
+  e2e-tests:
     runs-on: windows-latest
 
     steps:
@@ -35,10 +35,10 @@ jobs:
         # Copiar o WinAppDriver.exe para o diretório de destino
         Copy-Item -Path ".\WinAppDriver.exe" -Destination "C:\Program Files (x86)\Windows Application Driver\WinAppDriver.exe"
 
-    # - name: Start WinAppDriver
-    #   run: |
-    #     # Iniciar o WinAppDriver
-    #     Start-Process "C:\Program Files (x86)\Windows Application Driver\WinAppDriver.exe"
+    - name: Start WinAppDriver
+      run: |
+        # Iniciar o WinAppDriver
+        Start-Process "C:\Program Files (x86)\Windows Application Driver\WinAppDriver.exe"
 
     - name: Install dependencies
       run: |

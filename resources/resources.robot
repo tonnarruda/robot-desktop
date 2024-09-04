@@ -16,3 +16,16 @@ Start App
     Carrega Imagem
     Driver Setup
     ApplicationLibrary.DesktopLibrary.Open Application    ${REMOTE_URL}     platformName=Windows    deviceName=Windows   app=${APP}
+
+Inicia Sessao
+    Start App
+    Login no Ponto      ADMIN      
+    Send Keys           ${ESCAPE}
+    Sleep               15
+
+Run Python Script To Kill Process
+    Run Process    python    ${EXECDIR}\\kill_process.py    Ponto.exe    shell=True     
+
+Finaliza App
+    Quit Application
+    Run Python Script To Kill Process

@@ -27,11 +27,6 @@ Clica Botao
     [Arguments]     ${PARAMETER}
     Click           ${PARAMETER}.png
 
-Inicia Sessao
-    Login no Ponto      ADMIN      
-    Send Keys           ${ESCAPE}
-    Sleep               15
-
 
 Acessar Cadastro Empresa
     Click    menuCadastros.png
@@ -55,10 +50,3 @@ Screen Contains
 Screen Not Contains
     [Arguments]                         ${PARAMETER}
     Wait Until Screen Not Contain       ${PARAMETER}.png    2   
-
-Run Python Script To Kill Process
-    Run Process    python    ${EXECDIR}\\kill_process.py    Ponto.exe    shell=True     
-
-Finaliza App
-    Quit Application
-    Run Python Script To Kill Process

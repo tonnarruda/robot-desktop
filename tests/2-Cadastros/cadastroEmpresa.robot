@@ -2,10 +2,8 @@
 Resource            ../../resources/keywords.robot
 Resource            ../../resources/resources.robot
 
-Suite Setup         Start App
 Test Setup          Inicia Sessao
 Test Teardown       Finaliza App
-Suite Teardown      Driver Teardown
 Force Tags          Windows
 
 
