@@ -74,5 +74,4 @@ jobs:
   
           # Enviar e-mail
           Send-MailMessage -From $smtpFrom -To $smtpTo -Subject $messageSubject -Body $messageBody -SmtpServer $smtpServer -Port 587 -UseSsl -Credential (New-Object PSCredential ($smtpUser, (ConvertTo-SecureString $smtpPassword -AsPlainText -Force))) -Attachments $attachment
-    # env:
-    #   EMAIL_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+
