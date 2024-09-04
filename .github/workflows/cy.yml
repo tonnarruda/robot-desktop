@@ -35,10 +35,10 @@ jobs:
         # Copiar o WinAppDriver.exe para o diretório de destino
         Copy-Item -Path ".\WinAppDriver.exe" -Destination "C:\Program Files (x86)\Windows Application Driver\WinAppDriver.exe"
 
-    - name: Start WinAppDriver
-      run: |
-        # Iniciar o WinAppDriver
-        Start-Process "C:\Program Files (x86)\Windows Application Driver\WinAppDriver.exe"
+    # - name: Start WinAppDriver
+    #   run: |
+    #     # Iniciar o WinAppDriver
+    #     Start-Process "C:\Program Files (x86)\Windows Application Driver\WinAppDriver.exe"
 
     - name: Install dependencies
       run: |
