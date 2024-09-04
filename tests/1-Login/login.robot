@@ -11,6 +11,7 @@ Force Tags          Windows
 Teste de Login Com Sucesso
     Login no Ponto          ADMIN     
     Screen Not Contains     loginScreen
+    Log To Console    Teste Deu Bom
 
    
 Teste de Login Com Senha Invalida
