@@ -48,6 +48,7 @@ jobs:
         pip install robotframework-appiumlibrary
         pip install robotframework-SikuliLibrary
         pip install robotframework-ApplicationLibrary
+        pip install firebirdsql
         pip install psutil
 
     - name: Run Robot Framework Tests
