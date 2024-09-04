@@ -2,6 +2,7 @@
 Resource            ../resources/base.robot
 Resource            ../resources/variables.robot
 Resource            ../resources/resources.robot
+Library             Process
 
 
 *** Keywords ***
@@ -53,4 +54,11 @@ Screen Contains
 
 Screen Not Contains
     [Arguments]                         ${PARAMETER}
-    Wait Until Screen Not Contain       ${PARAMETER}.png    2    
+    Wait Until Screen Not Contain       ${PARAMETER}.png    2   
+
+Run Python Script To Kill Process
+    Run Process    python    ${EXECDIR}\\kill_process.py    Ponto.exe    shell=True     
+
+Finaliza App
+    Quit Application
+    Run Python Script To Kill Process

@@ -1,5 +1,6 @@
 *** Settings ***
 Resource            ../resources/base.robot
+Resource            ../resources/keywords.robot
 
 *** Variables ***
 ${REMOTE_URL}       http://127.0.0.1:4723

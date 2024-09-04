@@ -5,7 +5,7 @@ Resource            ../../resources/database.robot
 
 # Suite Setup         Start App
 # Test Setup          Inicia Sessao
-# Test Teardown       Quit Application
+# Test Teardown       Finaliza App
 # Suite Teardown      Driver Teardown
 
 # *** Test Cases ***
