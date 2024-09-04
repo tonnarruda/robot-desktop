@@ -27,7 +27,6 @@ Clica Botao
     Click           ${PARAMETER}.png
 
 Inicia Sessao
-    Start App
     Login no Ponto      ADMIN      
     Send Keys           ${ESCAPE}
     Sleep               15
