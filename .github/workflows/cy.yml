@@ -60,18 +60,3 @@ jobs:
       with:
         name: robot-test-results
         path: results/
-    
-    - name: Send Test Results via Email
-      run: |
-          $smtpServer = "smtp.gmail.com"
-          $smtpFrom = "georgem.juniore@gmail.com"
-          $smtpTo = "recipient@domain.com"
-          $messageSubject = "Robot Framework Test Results"
-          $messageBody = "Please find the attached test results."
-          $attachment = "results/report.html" # ou qualquer outro arquivo
-          $smtpUser = "georgem.juniore@gmail.com"
-          $smtpPassword = "Babylon2018" # Substitua com a senha de aplicativo gerada
-  
-          # Enviar e-mail
-          Send-MailMessage -From $smtpFrom -To $smtpTo -Subject $messageSubject -Body $messageBody -SmtpServer $smtpServer -Port 587 -UseSsl -Credential (New-Object PSCredential ($smtpUser, (ConvertTo-SecureString $smtpPassword -AsPlainText -Force))) -Attachments $attachment
-

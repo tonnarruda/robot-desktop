@@ -10,7 +10,8 @@ Force Tags          Windows
 *** Test Cases ***
 Tentativa de Exclusao de Cargo Com Sucesso 
     Login no Ponto      ADMIN
-    Clica Botao         Fechar
+    Sleep    5
+    Send Keys           ${ESCAPE}
     Log To Console      Passei Pelo Login
     Insert Cargo        999
     Log To Console      Consegui Acessar o cadastro de Empresa
