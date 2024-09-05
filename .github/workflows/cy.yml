@@ -28,24 +28,24 @@ jobs:
     - name: Install Firebird 2.5
       run: |
         # Definir o caminho do arquivo
-        $filePath = "$(System.DefaultWorkingDirectory)\Firebird-2.5.4.26856_0_Win32.exe"
+        $filePath = "$env:System_DefaultWorkingDirectory\Firebird-2.5.4.26856_0_Win32.exe"
         $tempDir = [System.IO.Path]::GetTempPath()
         $tempFilePath = [System.IO.Path]::Combine($tempDir, "Firebird-2.5.4.26856_0_Win32.exe")
-      
+
         # Baixar o instalador do Firebird 2.5
         Invoke-WebRequest -Uri "https://downloads.sourceforge.net/project/firebird/firebird-win32/2.5.4-26856/Firebird-2.5.4.26856_0_Win32.exe" -OutFile $filePath
-      
+
         # Verificar se o arquivo foi baixado corretamente
         if (Test-Path $filePath) {
-            # Copiar o arquivo para o diretório temporário
-            Copy-Item -Path $filePath -Destination $tempFilePath
-      
-            # Executar o instalador silenciosamente a partir do diretório temporário
-            Start-Process -FilePath $tempFilePath -ArgumentList "/SILENT" -Wait
+          # Copiar o arquivo para o diretório temporário
+          Copy-Item -Path $filePath -Destination $tempFilePath
+
+          # Executar o instalador silenciosamente a partir do diretório temporário
+          Start-Process -FilePath $tempFilePath -ArgumentList "/SILENT" -Wait
         } else {
-            Write-Error "O download do instalador do Firebird falhou."
+          Write-Error "O download do instalador do Firebird falhou."
         }
-      
+
     - name: Copy WinAppDriver to Program Files
       run: |
         # Criar o diretório se não existir
@@ -59,7 +59,7 @@ jobs:
     - name: Start WinAppDriver
       run: |
         # Iniciar o WinAppDriver
-        Start-Process "C:\Program Files (x86)\Windows Application Driver\WinAppDriver.exe"
+        Start-Process "C:\Program Files (x86)\Windows Application Driver\WinAppDriver.exe" -ArgumentList "/background"
 
     - name: Install dependencies
       run: |
@@ -75,7 +75,6 @@ jobs:
     - name: Run Robot Framework Tests
       run: |
         robot --outputdir results .\tests
-        
 
     - name: Upload Test Results
       uses: actions/upload-artifact@v3
