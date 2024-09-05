@@ -17,80 +17,60 @@ jobs:
 
     - name: Install Chocolatey
       run: |
-        # Instalar Chocolatey
+        # Install Chocolatey
         iex "& { $(irm https://chocolatey.org/install.ps1 -UseBasicP) }"
 
     - name: Install JRE 8u421
       run: |
-        # Instalar JRE 8u421 usando Chocolatey
+        # Install JRE 8u421 using Chocolatey
         choco install jre8 --version 8.0.421 -y
-        - name: Download Firebird 2.5
-        run: |
-          # Baixar o instalador do Firebird 2.5
-          Invoke-WebRequest -Uri "https://sourceforge.net/projects/firebird/files/firebird-win32/2.5.5-Release/Firebird-2.5.5.26952_0_Win32.exe" -OutFile "Firebird-2.5.5.26952_0_Win32.exe"
-          
+
+    - name: Download Firebird 2.5
+      run: |
+        # Download the Firebird 2.5 installer
+        Invoke-WebRequest -Uri "https://sourceforge.net/projects/firebird/files/firebird-win32/2.5.5-Release/Firebird-2.5.5.26952_0_Win32.exe" -OutFile "Firebird-2.5.5.26952_0_Win32.exe"
+    
     - name: Verify Firebird Download
       run: |
-        # Verificar se o arquivo foi baixado e seu tamanho
+        # Verify if the file was downloaded and its size
         $filePath = "Firebird-2.5.5.26952_0_Win32.exe"
-          
+        
         if (-Not (Test-Path $filePath)) {
-          Write-Error "O arquivo $filePath não foi baixado."
+          Write-Error "The file $filePath was not downloaded."
           exit 1
         }
-          
-        $expectedSize = 7004517  # Tamanho esperado do arquivo em bytes
+        
+        $expectedSize = 7004517  # Expected file size in bytes
         $actualSize = (Get-Item $filePath).Length
-          
+        
         if ($actualSize -ne $expectedSize) {
-          Write-Error "O tamanho do arquivo baixado ($actualSize bytes) não corresponde ao tamanho esperado ($expectedSize bytes)."
+          Write-Error "The downloaded file size ($actualSize bytes) does not match the expected size ($expectedSize bytes)."
           exit 1
         }
 
     - name: Install Firebird 2.5
       run: |
-        # Instalar Firebird 2.5
+        # Install Firebird 2.5
         Start-Process -FilePath ".\Firebird-2.5.5.26952_0_Win32.exe" -ArgumentList "/SILENT" -NoNewWindow -Wait
 
     - name: Verify Firebird Installation
       run: |
-        # Verificar se o Firebird foi instalado corretamente
-        & "C:\Program Files\Firebird\Firebird_2_5\bin\isql.exe" -?  # Comando para verificar a instalação
-
-    # - name: Install Firebird 2.5
-    #   run: |
-    #     # Definir o caminho do arquivo
-    #     $filePath = "$env:System_DefaultWorkingDirectory\Firebird-2.5.4.26856_0_Win32.exe"
-    #     $tempDir = [System.IO.Path]::GetTempPath()
-    #     $tempFilePath = [System.IO.Path]::Combine($tempDir, "Firebird-2.5.4.26856_0_Win32.exe")
-
-    #     # Baixar o instalador do Firebird 2.5
-    #     Invoke-WebRequest -Uri "https://sourceforge.net/projects/firebird/files/firebird-win32/2.5.5-Release/Firebird-2.5.5.26952_0_Win32.exe" -OutFile $filePath
-
-    #     # Verificar se o arquivo foi baixado corretamente
-    #     if (Test-Path $filePath) {
-    #       # Copiar o arquivo para o diretório temporário
-    #       Copy-Item -Path $filePath -Destination $tempFilePath
-
-    #       # Executar o instalador silenciosamente a partir do diretório temporário
-    #       Start-Process -FilePath $tempFilePath -ArgumentList "/SILENT" -Wait
-    #     } else {
-    #       Write-Error "O download do instalador do Firebird falhou."
-    #     }
+        # Verify if Firebird was installed correctly
+        & "C:\Program Files\Firebird\Firebird_2_5\bin\isql.exe" -?  # Command to check installation
 
     - name: Copy WinAppDriver to Program Files
       run: |
-        # Criar o diretório se não existir
+        # Create the directory if it doesn't exist
         if (-not (Test-Path "C:\Program Files (x86)\Windows Application Driver")) {
           New-Item -ItemType Directory -Path "C:\Program Files (x86)\Windows Application Driver"
         }
 
-        # Copiar o WinAppDriver.exe para o diretório de destino
+        # Copy the WinAppDriver.exe to the destination directory
         Copy-Item -Path ".\WinAppDriver.exe" -Destination "C:\Program Files (x86)\Windows Application Driver\WinAppDriver.exe"
 
     - name: Start WinAppDriver
       run: |
-        # Iniciar o WinAppDriver
+        # Start the WinAppDriver
         Start-Process "C:\Program Files (x86)\Windows Application Driver\WinAppDriver.exe" -ArgumentList "/background"
 
     - name: Install dependencies
