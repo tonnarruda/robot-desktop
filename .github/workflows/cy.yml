@@ -25,26 +25,26 @@ jobs:
         # Instalar JRE 8u421 usando Chocolatey
         choco install jre8 --version 8.0.421 -y
 
-    - name: Install Firebird 2.5
-      run: |
-        # Definir o caminho do arquivo
-        $filePath = "$env:System_DefaultWorkingDirectory\Firebird-2.5.4.26856_0_Win32.exe"
-        $tempDir = [System.IO.Path]::GetTempPath()
-        $tempFilePath = [System.IO.Path]::Combine($tempDir, "Firebird-2.5.4.26856_0_Win32.exe")
+    # - name: Install Firebird 2.5
+    #   run: |
+    #     # Definir o caminho do arquivo
+    #     $filePath = "$env:System_DefaultWorkingDirectory\Firebird-2.5.4.26856_0_Win32.exe"
+    #     $tempDir = [System.IO.Path]::GetTempPath()
+    #     $tempFilePath = [System.IO.Path]::Combine($tempDir, "Firebird-2.5.4.26856_0_Win32.exe")
 
-        # Baixar o instalador do Firebird 2.5
-        Invoke-WebRequest -Uri "https://downloads.sourceforge.net/project/firebird/firebird-win32/2.5.4-26856/Firebird-2.5.4.26856_0_Win32.exe" -OutFile $filePath
+    #     # Baixar o instalador do Firebird 2.5
+    #     Invoke-WebRequest -Uri "https://downloads.sourceforge.net/project/firebird/firebird-win32/2.5.4-26856/Firebird-2.5.4.26856_0_Win32.exe" -OutFile $filePath
 
-        # Verificar se o arquivo foi baixado corretamente
-        if (Test-Path $filePath) {
-          # Copiar o arquivo para o diretório temporário
-          Copy-Item -Path $filePath -Destination $tempFilePath
+    #     # Verificar se o arquivo foi baixado corretamente
+    #     if (Test-Path $filePath) {
+    #       # Copiar o arquivo para o diretório temporário
+    #       Copy-Item -Path $filePath -Destination $tempFilePath
 
-          # Executar o instalador silenciosamente a partir do diretório temporário
-          Start-Process -FilePath $tempFilePath -ArgumentList "/SILENT" -Wait
-        } else {
-          Write-Error "O download do instalador do Firebird falhou."
-        }
+    #       # Executar o instalador silenciosamente a partir do diretório temporário
+    #       Start-Process -FilePath $tempFilePath -ArgumentList "/SILENT" -Wait
+    #     } else {
+    #       Write-Error "O download do instalador do Firebird falhou."
+    #     }
 
     - name: Copy WinAppDriver to Program Files
       run: |
