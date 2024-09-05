@@ -28,7 +28,23 @@ jobs:
     - name: Download Firebird 2.5
       run: |
         # Baixar o instalador do Firebird 2.5
-        Invoke-WebRequest -Uri "https://sourceforge.net/projects/firebird/files/firebird-win32/2.5.5-Release/Firebird-2.5.5.26952_0_Win32.exe" -OutFile "Firebird-2.5.4.26856_0_Win32.exe"
+        Invoke-WebRequest -Uri "https://sourceforge.net/projects/firebird/files/firebird-win32/2.5.5-Release/Firebird-2.5.5.26952_0_Win32.exe" -OutFile "Firebird-2.5.5.26952_0_Win32.exe"
+    
+    - name: Verify Firebird Download
+      run: |
+        # Verificar se o arquivo foi baixado e seu tamanho
+        if (-Not (Test-Path "Firebird-2.5.5.26952_0_Win32.exe")) {
+          Write-Error "O arquivo Firebird-2.5.5.26952_0_Win32.exe não foi baixado."
+          exit 1
+        }
+        
+        $expectedSize = 24800000  # Substitua pelo tamanho esperado do arquivo em bytes
+        $actualSize = (Get-Item "Firebird-2.5.5.26952_0_Win32.exe").Length
+        
+        if ($actualSize -lt $expectedSize) {
+          Write-Error "O tamanho do arquivo baixado é menor do que o esperado."
+          exit 1
+        }    
 
     - name: Install Firebird 2.5
       run: |
