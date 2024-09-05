@@ -25,6 +25,21 @@ jobs:
         # Instalar JRE 8u421 usando Chocolatey
         choco install jre8 --version 8.0.421 -y
 
+    - name: Download Firebird 2.5
+      run: |
+        # Baixar o instalador do Firebird 2.5
+        Invoke-WebRequest -Uri "https://sourceforge.net/projects/firebird/files/firebird-win32/2.5.5-Release/Firebird-2.5.5.26952_0_Win32.exe" -OutFile "Firebird-2.5.4.26856_0_Win32.exe"
+
+    - name: Install Firebird 2.5
+      run: |
+        # Instalar Firebird 2.5
+        Start-Process -FilePath ".\Firebird-2.5.5.26952_0_Win32.exe" -ArgumentList "/SILENT" -NoNewWindow -Wait
+
+    - name: Verify Firebird Installation
+      run: |
+        # Verificar se o Firebird foi instalado corretamente
+        & "C:\Program Files\Firebird\Firebird_2_5\bin\isql.exe" -?  # Comando para verificar a instalação
+
     # - name: Install Firebird 2.5
     #   run: |
     #     # Definir o caminho do arquivo
@@ -33,7 +48,7 @@ jobs:
     #     $tempFilePath = [System.IO.Path]::Combine($tempDir, "Firebird-2.5.4.26856_0_Win32.exe")
 
     #     # Baixar o instalador do Firebird 2.5
-    #     Invoke-WebRequest -Uri "https://downloads.sourceforge.net/project/firebird/firebird-win32/2.5.4-26856/Firebird-2.5.4.26856_0_Win32.exe" -OutFile $filePath
+    #     Invoke-WebRequest -Uri "https://sourceforge.net/projects/firebird/files/firebird-win32/2.5.5-Release/Firebird-2.5.5.26952_0_Win32.exe" -OutFile $filePath
 
     #     # Verificar se o arquivo foi baixado corretamente
     #     if (Test-Path $filePath) {
