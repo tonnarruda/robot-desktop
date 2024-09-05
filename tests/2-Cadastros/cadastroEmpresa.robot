@@ -1,6 +1,7 @@
 *** Settings ***
 Resource            ../../resources/keywords.robot
 Resource            ../../resources/resources.robot
+Resource            ../../resources/database.robot
 
 Test Setup          Start App
 Test Teardown       Finaliza App
