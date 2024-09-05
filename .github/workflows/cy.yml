@@ -37,6 +37,14 @@ jobs:
           Write-Error "O arquivo Firebird-2.5.5.26952_0_Win32.exe não foi baixado."
           exit 1
         }
+        
+        $expectedSize = 7004517  # Tamanho esperado do arquivo em bytes
+        $actualSize = (Get-Item "Firebird-2.5.4.26856_0_Win32.exe").Length
+        
+        if ($actualSize -ne $expectedSize) {
+          Write-Error "O tamanho do arquivo baixado ($actualSize bytes) não corresponde ao tamanho esperado ($expectedSize bytes)."
+          exit 1
+        }
 
     - name: Install Firebird 2.5
       run: |
