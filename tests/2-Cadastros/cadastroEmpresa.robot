@@ -13,6 +13,7 @@ Tentativa de Exclusao de Empresa Logada
     Login no Ponto      ADMIN
     Sleep               2
     Send Keys           ${ESCAPE}
+    Sleep               15
     Acessar Cadastro Empresa
     Send Keys           ${F4}
     Assert Equal        Empresa corrente nao pode ser excluida
