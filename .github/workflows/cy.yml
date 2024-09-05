@@ -25,6 +25,11 @@ jobs:
         # Instalar JRE 8u421 usando Chocolatey
         choco install jre8 --version 8.0.421 -y
 
+    - name: Install Firebird 2.5
+      run: |
+        # Instalar Firebird 2.5 usando Chocolatey (se disponível)
+        choco install firebirdsql --version 2.5 -y
+
     - name: Copy WinAppDriver to Program Files
       run: |
         # Criar o diretório se não existir
