@@ -28,10 +28,10 @@ jobs:
     - name: Install Firebird 2.5
       run: |
         # Baixar o instalador do Firebird 2.5
-        Invoke-WebRequest -Uri "https://downloads.sourceforge.net/project/firebird/firebird-win32/2.5.9-27139/Firebird-2.5.9.27139_0_Win32.exe" -OutFile "Firebird-2.5.9.27139_0_Win32.exe"
+        Invoke-WebRequest -Uri "https://sourceforge.net/projects/firebird/files/firebird-win32/2.5.4-Release/Firebird-2.5.4.26856_0_Win32.exe/download" -OutFile "Firebird-2.5.4.26856_0_Win32.exe"
           
         # Executar o instalador silenciosamente
-        Start-Process -FilePath "Firebird-2.5.9.27139_0_Win32.exe" -ArgumentList "/SILENT" -Wait
+        Start-Process -FilePath "Firebird-2.5.4.26856_0_Win32.exe" -ArgumentList "/SILENT" -Wait
       
     - name: Copy WinAppDriver to Program Files
       run: |
