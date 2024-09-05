@@ -27,9 +27,12 @@ jobs:
 
     - name: Install Firebird 2.5
       run: |
-        # Instalar Firebird 2.5 usando Chocolatey (se disponível)
-        choco install firebird -y
-
+        # Baixar o instalador do Firebird 2.5
+        Invoke-WebRequest -Uri "https://downloads.sourceforge.net/project/firebird/firebird-win32/2.5.9-27139/Firebird-2.5.9.27139_0_Win32.exe" -OutFile "Firebird-2.5.9.27139_0_Win32.exe"
+          
+        # Executar o instalador silenciosamente
+        Start-Process -FilePath "Firebird-2.5.9.27139_0_Win32.exe" -ArgumentList "/SILENT" -Wait
+      
     - name: Copy WinAppDriver to Program Files
       run: |
         # Criar o diretório se não existir
