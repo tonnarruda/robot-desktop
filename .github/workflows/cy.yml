@@ -25,38 +25,38 @@ jobs:
         # Install JRE 8u421 using Chocolatey
         choco install jre8 --version 8.0.421 -y
 
-    - name: Download Firebird 2.5
-      run: |
-        # Download the Firebird 2.5 installer
-        Invoke-WebRequest -Uri "https://sourceforge.net/projects/firebird/files/firebird-win32/2.5.5-Release/Firebird-2.5.5.26952_0_Win32.exe" -OutFile "Firebird-2.5.5.26952_0_Win32.exe"
+    # - name: Download Firebird 2.5
+    #   run: |
+    #     # Download the Firebird 2.5 installer
+    #     Invoke-WebRequest -Uri "https://sourceforge.net/projects/firebird/files/firebird-win32/2.5.5-Release/Firebird-2.5.5.26952_0_Win32.exe" -OutFile "Firebird-2.5.5.26952_0_Win32.exe"
     
-    - name: Verify Firebird Download
-      run: |
-        # Verify if the file was downloaded and its size
-        $filePath = "Firebird-2.5.5.26952_0_Win32.exe"
+    # - name: Verify Firebird Download
+    #   run: |
+    #     # Verify if the file was downloaded and its size
+    #     $filePath = "Firebird-2.5.5.26952_0_Win32.exe"
         
-        if (-Not (Test-Path $filePath)) {
-          Write-Error "The file $filePath was not downloaded."
-          exit 1
-        }
+    #     if (-Not (Test-Path $filePath)) {
+    #       Write-Error "The file $filePath was not downloaded."
+    #       exit 1
+    #     }
         
-        $expectedSize = 7004517  # Expected file size in bytes
-        $actualSize = (Get-Item $filePath).Length
+    #     $expectedSize = 7004517  # Expected file size in bytes
+    #     $actualSize = (Get-Item $filePath).Length
         
-        if ($actualSize -ne $expectedSize) {
-          Write-Error "The downloaded file size ($actualSize bytes) does not match the expected size ($expectedSize bytes)."
-          exit 1
-        }
+    #     if ($actualSize -ne $expectedSize) {
+    #       Write-Error "The downloaded file size ($actualSize bytes) does not match the expected size ($expectedSize bytes)."
+    #       exit 1
+    #     }
 
-    - name: Install Firebird 2.5
-      run: |
-        # Install Firebird 2.5
-        Start-Process -FilePath ".\Firebird-2.5.5.26952_0_Win32.exe" -ArgumentList "/SILENT" -NoNewWindow -Wait
+    # - name: Install Firebird 2.5
+    #   run: |
+    #     # Install Firebird 2.5
+    #     Start-Process -FilePath ".\Firebird-2.5.5.26952_0_Win32.exe" -ArgumentList "/SILENT" -NoNewWindow -Wait
 
-    - name: Verify Firebird Installation
-      run: |
-        # Verify if Firebird was installed correctly
-        & "C:\Program Files\Firebird\Firebird_2_5\bin\isql.exe" -?  # Command to check installation
+    # - name: Verify Firebird Installation
+    #   run: |
+    #     # Verify if Firebird was installed correctly
+    #     & "C:\Program Files\Firebird\Firebird_2_5\bin\isql.exe" -?  # Command to check installation
 
     - name: Copy WinAppDriver to Program Files
       run: |
