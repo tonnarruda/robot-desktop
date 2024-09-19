@@ -9,9 +9,7 @@ Test Teardown       Finaliza App
 
 *** Test Cases ***
 Tentativa de Exclusao de Cargo Com Sucesso 
-    Login no Ponto      ADMIN
-    Sleep    5
-    Send Keys           ${ESCAPE}
+    Inicia Sessao
     Insert Cargo        999
     Acessar Cadastro Cargo
     Click               Pesquisa.png
