@@ -5,6 +5,9 @@ Resource            ../../resources/database.robot
 
 Force Tags          Windows
 
+Test Setup          Start App
+Test Teardown       Finaliza App
+
 
 *** Test Cases ***
 Tentativa de Exclusao de Empresa Logada
